@@ -1,0 +1,419 @@
+pdb_id,method,resolution,max_chain_len,title,descriptions,organisms,reason
+1AHL,SOLUTION NMR,,49,"ANTHOPLEURIN-A,NMR, 20 STRUCTURES",ANTHOPLEURIN-A,Anthopleura xanthogrammica,NON_XRAY:SOLUTION NMR; TOO_SHORT:49AA
+1ANS,SOLUTION NMR,,27,THREE-DIMENSIONAL STRUCTURE IN SOLUTION OF NEUROTOXIN III FROM THE SEA ANEMONE A,NEUROTOXIN III,Anemonia sulcata,NON_XRAY:SOLUTION NMR; TOO_SHORT:27AA; NOT_FP
+1APF,SOLUTION NMR,,49,"ANTHOPLEURIN-B, NMR, 20 STRUCTURES",ANTHOPLEURIN-B,Anthopleura xanthogrammica,NON_XRAY:SOLUTION NMR; TOO_SHORT:49AA
+1ATX,SOLUTION NMR,,46,THREE-DIMENSIONAL STRUCTURE OF THE NEUROTOXIN ATX IA FROM ANEMONIA SULCATA IN AQ,ATX IA,Anemonia sulcata,NON_XRAY:SOLUTION NMR; TOO_SHORT:46AA; NOT_FP
+1BDS,SOLUTION NMR,,43,DETERMINATION OF THE THREE-DIMENSIONAL SOLUTION STRUCTURE OF THE ANTIHYPERTENSIV,BDS-I,Anemonia sulcata,NON_XRAY:SOLUTION NMR; TOO_SHORT:43AA
+1BEI,SOLUTION NMR,,35,"Shk-dnp22: A Potent Kv1.3-specific immunosuppressive polypeptide, NMR, 20 struct",POTASSIUM CHANNEL TOXIN SHK,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:35AA; NOT_FP
+1BGK,SOLUTION NMR,,37,SEA ANEMONE TOXIN (BGK) WITH HIGH AFFINITY FOR VOLTAGE DEPENDENT POTASSIUM CHANN,BGK,Bunodosoma granulifera,NON_XRAY:SOLUTION NMR; TOO_SHORT:37AA; NOT_FP
+1C2U,SOLUTION NMR,,35,"SOLUTION STRUCTURE OF [ABU3,35]SHK12-28,17-32",SYNTHETIC PEPTIDE ANALOGUE OF SHK TOXIN,,NON_XRAY:SOLUTION NMR; TOO_SHORT:35AA; NOT_FP
+1C7V,SOLUTION NMR,,81,NMR SOLUTION STRUCTURE OF THE CALCIUM-BOUND C-TERMINAL DOMAIN (W81-S161) OF CALC,CALCIUM VECTOR PROTEIN,Branchiostoma lanceolatum,NON_XRAY:SOLUTION NMR; TOO_SHORT:81AA
+1C7W,SOLUTION NMR,,81,NMR SOLUTION STRUCTURE OF THE CALCIUM-BOUND C-TERMINAL DOMAIN (W81-S161) OF CALC,CALCIUM VECTOR PROTEIN,Branchiostoma lanceolatum,NON_XRAY:SOLUTION NMR; TOO_SHORT:81AA
+1EJ3,X-RAY DIFFRACTION,2.3,191,CRYSTAL STRUCTURE OF AEQUORIN,AEQUORIN,Aequorea aequorea,UNKNOWN
+1EL4,X-RAY DIFFRACTION,1.73,195,STRUCTURE OF THE CALCIUM-REGULATED PHOTOPROTEIN OBELIN DETERMINED BY SULFUR SAS,OBELIN,Obelia longissima,UNKNOWN
+1GWY,X-RAY DIFFRACTION,1.71,175,Crystal structure of the water-soluble state of the pore-forming cytolysin Stich,STICHOLYSIN II,STOICHACTIS HELIANTHUS,UNKNOWN
+1IAZ,X-RAY DIFFRACTION,1.9,179,EQUINATOXIN II,EQUINATOXIN II,Actinia equina,NOT_FP
+1J7Q,SOLUTION NMR,,86,Solution structure and backbone dynamics of the defunct EF-hand domain of Calciu,Calcium Vector Protein,Branchiostoma lanceolatum,NON_XRAY:SOLUTION NMR; TOO_SHORT:86AA
+1J7R,SOLUTION NMR,,86,Solution structure and backbone dynamics of the defunct EF-hand domain of Calciu,Calcium Vector Protein,Branchiostoma lanceolatum,NON_XRAY:SOLUTION NMR; TOO_SHORT:86AA
+1JF0,X-RAY DIFFRACTION,1.82,195,The Crystal Structure of Obelin from Obelia geniculata at 1.82 A Resolution,Obelin,Obelia longissima,UNKNOWN
+1JF2,X-RAY DIFFRACTION,1.72,195,Crystal Structure of W92F obelin mutant from Obelia longissima at 1.72 Angstrom ,obelin,Obelia longissima,UNKNOWN
+1KD6,SOLUTION NMR,,179,Solution structure of the eukaryotic pore-forming cytolysin equinatoxin II,EQUINATOXIN II,Actinia equina,NON_XRAY:SOLUTION NMR; NOT_FP
+1O71,X-RAY DIFFRACTION,2.26,175,Crystal structure of the water-soluble state of the pore-forming cytolysin Stich,STICHOLYSIN II,STOICHACTIS HELIANTHUS,UNKNOWN
+1O72,X-RAY DIFFRACTION,2.41,175,Crystal structure of the water-soluble state of the pore-forming cytolysin Stich,STICHOLYSIN II,STOICHACTIS HELIANTHUS,UNKNOWN
+1QV0,X-RAY DIFFRACTION,1.1,195,Atomic resolution structure of obelin from Obelia longissima,Obelin,Obelia longissima,UNKNOWN
+1QV1,X-RAY DIFFRACTION,1.1,195,Atomic resolution structure of obelin from Obelia longissima,Obelin,Obelia longissima,UNKNOWN
+1ROO,SOLUTION NMR,,35,"NMR SOLUTION STRUCTURE OF SHK TOXIN, NMR, 20 STRUCTURES",SHK TOXIN,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:35AA; NOT_FP
+1S36,X-RAY DIFFRACTION,1.96,195,Crystal structure of a Ca2+-discharged photoprotein: Implications for the mechan,Obelin,Obelia longissima,UNKNOWN
+1SH1,SOLUTION NMR,,48,SOLUTION STRUCTURE OF NEUROTOXIN I FROM THE SEA ANEMONE STICHODACTYLA HELIANTHUS,NEUROTOXIN I,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:48AA; NOT_FP
+1SHI,SOLUTION NMR,,49,REFINED STRUCTURE IN SOLUTION OF THE SEA ANEMONE NEUROTOXIN SHI,NEUROTOXIN I,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:49AA; NOT_FP
+1SHP,SOLUTION NMR,,55,THE NMR SOLUTION STRUCTURE OF A KUNITZ-TYPE PROTEINASE INHIBITOR FROM THE SEA AN,TRYPSIN INHIBITOR,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:55AA; NOT_FP
+1SL7,X-RAY DIFFRACTION,2.2,195,Crystal structure of calcium-loaded apo-obelin from Obelia longissima,Obelin,Obelia longissima,UNKNOWN
+1SL8,X-RAY DIFFRACTION,1.7,191,Calcium-loaded apo-aequorin from Aequorea victoria,Aequorin 1,Aequorea victoria,UNKNOWN
+1SL9,X-RAY DIFFRACTION,1.17,195,Obelin from Obelia longissima,Obelin,Obelia longissima,UNKNOWN
+1TZQ,X-RAY DIFFRACTION,2.3,175,Crystal structure of the equinatoxin II 8-69 double cysteine mutant,Equinatoxin II,Actinia equina,NOT_FP
+1U5U,X-RAY DIFFRACTION,2.0,374,The structure of an Allene Oxide Synthase reveals a novel use for a catalase fol,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+1UHH,X-RAY DIFFRACTION,1.8,191,Crystal structure of cp-aequorin,Aequorin 2,Aequorea victoria,UNKNOWN
+1UHI,X-RAY DIFFRACTION,1.8,191,Crystal structure of i-aequorin,Aequorin 2,Aequorea victoria,UNKNOWN
+1UHJ,X-RAY DIFFRACTION,1.8,191,Crystal structure of br-aequorin,Aequorin 2,Aequorea victoria,UNKNOWN
+1UHK,X-RAY DIFFRACTION,1.6,191,Crystal structure of n-aequorin,Aequorin 2,Aequorea victoria,UNKNOWN
+1WQK,SOLUTION NMR,,42,"Solution structure of APETx1, a specific peptide inhibitor of human Ether-a-go-g",Toxin APETx1,Anthopleura elegantissima,NON_XRAY:SOLUTION NMR; TOO_SHORT:42AA; NOT_FP
+1WXN,SOLUTION NMR,,42,"Solution structure of APETx2, a specific peptide inhibitor of ASIC3 proton-gated",Toxin APETx2,Anthopleura elegantissima,NON_XRAY:SOLUTION NMR; TOO_SHORT:42AA; NOT_FP
+1XT5,X-RAY DIFFRACTION,1.15,135,"Crystal Structure of VCBP3, domain 1, from Branchiostoma floridae",variable region-containing chitin-binding protein 3,Branchiostoma floridae,NOT_FP
+1Y1B,SOLUTION NMR,,48,Solution structure of Anemonia elastase inhibitor,Elastase inhibitor,,NON_XRAY:SOLUTION NMR; TOO_SHORT:48AA; NOT_FP
+1Y1C,SOLUTION NMR,,48,Solution structure of Anemonia elastase inhibitor analogue,Elastase inhibitor,,NON_XRAY:SOLUTION NMR; TOO_SHORT:48AA; NOT_FP
+28QL,ELECTRON MICROSCOPY,,227,GFP bound to distal DARPin (AHIR dodecamer scaffold system),Green fluorescent protein; DARPin,Aequorea victoria; synthetic construct,NON_XRAY:ELECTRON MICROSCOPY
+2BDS,SOLUTION NMR,,43,DETERMINATION OF THE THREE-DIMENSIONAL SOLUTION STRUCTURE OF THE ANTIHYPERTENSIV,BDS-I,Anemonia sulcata,NON_XRAY:SOLUTION NMR; TOO_SHORT:43AA
+2F8P,X-RAY DIFFRACTION,1.93,195,Crystal structure of obelin following Ca2+ triggered bioluminescence suggests ne,Obelin,Obelia longissima,UNKNOWN
+2FBO,X-RAY DIFFRACTION,1.85,250,Crystal Structure of the Two Tandem V-type Regions of VCBP3 (v-region-containing,variable region-containing chitin-binding protein 3,Branchiostoma floridae,NOT_FP
+2FNQ,X-RAY DIFFRACTION,3.2,699,Insights from the X-ray crystal structure of coral 8R-lipoxygenase: calcium acti,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+2H9X,SOLUTION NMR,,47,NMR structure for the CgNa toxin from the sea anemone Condylactis gigantea,Toxin CgNa,Condylactis gigantea,NON_XRAY:SOLUTION NMR; TOO_SHORT:47AA; NOT_FP
+2HPS,X-RAY DIFFRACTION,1.72,186,Crystal structure of coelenterazine-binding protein from Renilla Muelleri,coelenterazine-binding protein with bound coelenterazine,Renilla muelleri,NOT_FP
+2HQ8,X-RAY DIFFRACTION,1.8,186,Crystal structure of coelenterazine-binding protein from renilla muelleri in the,Coelenterazine-binding protein ca-bound apo form,Renilla muelleri,NOT_FP
+2K9E,SOLUTION NMR,,38,NMR Solution Structure for ShK-192: A Potent KV1.3-Specific Immunosuppressive Po,Kappa-stichotoxin-She3a,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:38AA; NOT_FP
+2KS4,SOLUTION NMR,,176,NMR structure of the sea anemone actinoporin Sticholysin,Sticholysin-1,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; NOT_FP
+2L2B,SOLUTION NMR,,175,"Structure of StnII-Y111N, a mutant of the sea anemone actinoporin Sticholysin II",Sticholysin-2,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; NOT_FP
+2L38,SOLUTION NMR,,175,R29Q Sticholysin II mutant,Sticholysin-2,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR
+2LZO,SOLUTION NMR,,29,Spatial structure of Pi-AnmTX Ugr 9a-1,UGTX,Urticina,NON_XRAY:SOLUTION NMR; TOO_SHORT:29AA
+2MUB,SOLUTION NMR,,42,Solution structure of the analgesic sea anemone peptide APETx2,Toxin APETx2,Anthopleura elegantissima,NON_XRAY:SOLUTION NMR; TOO_SHORT:42AA; NOT_FP
+2PSD,X-RAY DIFFRACTION,1.4,318,Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla ,Renilla-luciferin 2-monooxygenase,Renilla reniformis,POTENTIAL_MISSING_FP
+2PSE,X-RAY DIFFRACTION,2.5,318,Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla ,Renilla-luciferin 2-monooxygenase,Renilla reniformis,POTENTIAL_MISSING_FP
+2PSF,X-RAY DIFFRACTION,1.4,310,Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla ,Renilla-luciferin 2-monooxygenase,Renilla reniformis,POTENTIAL_MISSING_FP
+2PSH,X-RAY DIFFRACTION,1.79,319,Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla ,Renilla-luciferin 2-monooxygenase,Renilla reniformis,POTENTIAL_MISSING_FP
+2PSJ,X-RAY DIFFRACTION,1.8,319,Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla ,Renilla-luciferin 2-monooxygenase,Renilla reniformis,POTENTIAL_MISSING_FP
+2SAS,X-RAY DIFFRACTION,2.4,185,STRUCTURE OF A SARCOPLASMIC CALCIUM-BINDING PROTEIN FROM AMPHIOXUS REFINED AT 2.,SARCOPLASMIC CALCIUM-BINDING PROTEIN,Branchiostoma lanceolatum,NOT_FP
+2SH1,SOLUTION NMR,,48,SOLUTION STRUCTURE OF NEUROTOXIN I FROM THE SEA ANEMONE STICHODACTYLA HELIANTHUS,NEUROTOXIN I,Stichodactyla helianthus,NON_XRAY:SOLUTION NMR; TOO_SHORT:48AA; NOT_FP
+2ZO6,X-RAY DIFFRACTION,1.4,252,"Crystal Structure of Kusabira-Cyan (KCY), a Cyan-Emitting GFP-Like Protein","CYAN-EMITTING GFP-LIKE PROTEIN, KUSABIRA-CYAN (KCY)",Fungia concinna,POTENTIAL_MISSING_FP
+2ZO7,X-RAY DIFFRACTION,1.58,222,"Crystal Structure of a Kusabira-Cyan Mutant (KCY-R1), a Cyan/Green-Emitting GFP-","CYAN/GREEN-EMITTING GFP-LIKE PROTEIN, KUSABIRA-CYAN MUTANT (KCY-R1)",Fungia concinna,POTENTIAL_MISSING_FP
+3BX9,X-RAY DIFFRACTION,1.8,243,Monomeric Far-red Fluorescent Protein mKate Crystallized at pH 2.0,Far-red fluorescent protein mKate,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+3BXA,X-RAY DIFFRACTION,1.75,243,Monomeric Far-red Fluorescent Protein mKate Crystallized at pH 4.2,Far-red fluorescent protein mKate,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+3BXB,X-RAY DIFFRACTION,2.6,243,Monomeric Far-red Fluorescent Protein mKate Crystallized at pH 7.0,Far-red fluorescent protein mKate,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+3BXC,X-RAY DIFFRACTION,2.6,243,Monomeric Far-red Fluorescent Protein mKate Crystallized at pH 9.0,Far-red fluorescent protein mKate,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+3DY5,X-RAY DIFFRACTION,3.51,1066,Allene oxide synthase 8R-lipoxygenase from Plexaura homomalla,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+3EK4,X-RAY DIFFRACTION,2.65,449,Calcium-saturated GCaMP2 Monomer,"Myosin light chain kinase, Green fluorescent protein, Calmodulin chimera",Aequorea victoria; artificial gene; Rattus norvegicus,POTENTIAL_MISSING_FP
+3EK7,X-RAY DIFFRACTION,1.85,449,Calcium-saturated GCaMP2 dimer,"Myosin light chain kinase, Green fluorescent protein, Calmodulin chimera",Aequorea victoria; artificial gene; Rattus norvegicus,POTENTIAL_MISSING_FP
+3EK8,X-RAY DIFFRACTION,2.8,449,Calcium-saturated GCaMP2 T116V/G87R mutant monomer,"Myosin light chain kinase, Green fluorescent protein, Calmodulin chimera",Aequorea victoria; artificial gene; Rattus norvegicus,POTENTIAL_MISSING_FP
+3EKH,X-RAY DIFFRACTION,2.0,449,Calcium-saturated GCaMP2 T116V/K378W mutant monomer,"Myosin light chain kinase, Green fluorescent protein, Calmodulin chimera",Aequorea victoria; artificial gene; Rattus norvegicus,POTENTIAL_MISSING_FP
+3EKJ,X-RAY DIFFRACTION,2.8,449,Calcium-free GCaMP2 (calcium binding deficient mutant),"Myosin light chain kinase, Green fluorescent protein, Calmodulin chimera",Aequorea victoria; artificial gene; Rattus norvegicus,POTENTIAL_MISSING_FP
+3EVU,X-RAY DIFFRACTION,1.75,449,Crystal structure of Calcium bound dimeric GCAMP2,"Myosin light chain kinase, Green fluorescent protein, Calmodulin-1  chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3EVV,X-RAY DIFFRACTION,2.6,451,Crystal Structure of Calcium bound dimeric GCAMP2 (#2),"Myosin light chain kinase, Green fluorescent protein, Calmodulin chimera",Aequorea victoria; Homo sapiens,POTENTIAL_MISSING_FP
+3EYB,X-RAY DIFFRACTION,2.79,219,Structural and functional insights into the ligand binding domain of a non-dupli,Nuclear hormone receptor RXR,Branchiostoma floridae,NOT_FP
+3FG1,X-RAY DIFFRACTION,1.85,696,Crystal structure of Delta413-417:GS LOX,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+3FG3,X-RAY DIFFRACTION,1.9,696,Crystal structure of Delta413-417:GS I805W LOX,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+3FG4,X-RAY DIFFRACTION,2.31,696,Crystal structure of Delta413-417:GS I805A LOX,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+3LIM,X-RAY DIFFRACTION,1.8,178,Crystal structure of the pore forming toxin frac from sea anemone actinia fragac,Fragaceatoxin C,Actinia fragacea,NOT_FP
+3LOI,X-RAY DIFFRACTION,2.1,172,Crystal structures of Cupin superfamily BbDUF985 from Branchiostoma belcheri tsi,Putative uncharacterized protein,Branchiostoma belcheri tsingtauense,UNKNOWN
+3LS3,X-RAY DIFFRACTION,1.65,235,Padron0.9-ON (fluorescent state),Padron0.9,Pectiniidae,POTENTIAL_MISSING_FP
+3LSA,X-RAY DIFFRACTION,1.79,235,Padron0.9-OFF (non-fluorescent state),Padron0.9,Pectiniidae,POTENTIAL_MISSING_FP
+3LZZ,X-RAY DIFFRACTION,2.5,172,Crystal structures of Cupin superfamily BbDUF985 from Branchiostoma belcheri tsi,Putative uncharacterized protein,Branchiostoma belcheri tsingtauense,UNKNOWN
+3M7Q,X-RAY DIFFRACTION,1.7,223,Crystal structure of recombinant Kunitz Type serine protease Inhibitor-1 from th,Kunitz-type proteinase inhibitor SHPI-1; Cationic trypsin,Stichodactyla helianthus; Bos taurus,NOT_FP
+3O77,X-RAY DIFFRACTION,2.35,415,The structure of Ca2+ Sensor (Case-16),"Myosin light chain kinase, smooth muscle,Green fluorescent protein,Green fluores",Aequorea victoria; Gallus gallus; Homo sapiens,POTENTIAL_MISSING_FP
+3O78,X-RAY DIFFRACTION,2.6,415,The structure of Ca2+ Sensor (Case-12),"Myosin light chain kinase, smooth muscle,Green fluorescent protein,Green fluores",Aequorea victoria; Gallus gallus; Homo sapiens,POTENTIAL_MISSING_FP
+3OFW,X-RAY DIFFRACTION,2.5,60,Crystal structure of recombinant Kunitz Type serine protease Inhibitor-1 from th,Kunitz-type proteinase inhibitor SHPI-1,Stichodactyla helianthus,TOO_SHORT:60AA; NOT_FP
+3OSQ,X-RAY DIFFRACTION,1.9,661,Maltose-bound maltose sensor engineered by insertion of circularly permuted gree,"Maltose-binding periplasmic protein,Green fluorescent protein",Aequorea victoria; Escherichia coli O157:H7,POTENTIAL_MISSING_FP
+3OSR,X-RAY DIFFRACTION,2.0,653,Maltose-bound maltose sensor engineered by insertion of circularly permuted gree,"Maltose-binding periplasmic protein,Green fluorescent protein",Aequorea victoria; Escherichia coli O157:H7,POTENTIAL_MISSING_FP
+3RA4,X-RAY DIFFRACTION,2.7,519,Structural studies of AAV8 capsid transitions associated with endosomal traffick,DNA (5'-D(*CP*A)-3'); Capsid protein,Adeno-associated virus - 8; Aequorea victoria,UNKNOWN
+3RA9,X-RAY DIFFRACTION,2.7,519,Structural studies of AAV8 capsid transitions associated with endosomal traffick,DNA (5'-D(P*CP*A)-3'); Capsid protein,Adeno-associated virus - 8; Aequorea victoria,UNKNOWN
+3RE2,X-RAY DIFFRACTION,1.95,472,Crystal structure of menin reveals the binding site for Mixed Lineage Leukemia (,Predicted protein,Nematostella vectensis,UNKNOWN
+3SG2,X-RAY DIFFRACTION,2.0,449,"Crystal Structure of GCaMP2-T116V,D381Y","Myosin light chain kinase, Green fluorescent protein, Calmodulin-1 chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3SG3,X-RAY DIFFRACTION,2.1,449,Crystal Structure of GCaMP3-D380Y,"Myosin light chain kinase, Green fluorescent protein, Calmodulin-1 chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3SG4,X-RAY DIFFRACTION,2.4,448,"Crystal Structure of GCaMP3-D380Y, LP(linker 2)","Myosin light chain kinase, Green fluorescent protein, Calmodulin-1 chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3SG5,X-RAY DIFFRACTION,1.9,448,"Crystal Structure of Dimeric GCaMP3-D380Y, QP(linker 1), LP(linker 2)","Myosin light chain kinase, Green fluorescent protein, Calmodulin-1 chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3SG6,X-RAY DIFFRACTION,1.7,450,Crystal Structure of Dimeric GCaMP2-LIA(linker 1),"Myosin light chain kinase, Green fluorescent protein, Calmodulin-1 chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3SG7,X-RAY DIFFRACTION,1.9,448,Crystal Structure of GCaMP3-KF(linker 1),"Myosin light chain kinase, Green fluorescent protein, Calmodulin-1 chimera",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3ST2,X-RAY DIFFRACTION,1.9,250,Dreiklang - equilibrium state,Dreiklang,Aequorea victoria,UNKNOWN
+3ST3,X-RAY DIFFRACTION,1.702,250,Dreiklang - off state,Dreiklang,Aequorea victoria,UNKNOWN
+3ST4,X-RAY DIFFRACTION,2.0,250,Dreiklang - on state,Dreiklang,Aequorea victoria,UNKNOWN
+3T62,X-RAY DIFFRACTION,2.0,245,Crystal structure of recombinant Kunitz Type serine protease Inhibitor-1 from th,Kunitz-type proteinase inhibitor SHPI-1; Chymotrypsinogen A,Stichodactyla helianthus; Bos taurus,NOT_FP
+3UOU,X-RAY DIFFRACTION,2.0,240,Crystal structure of the Kunitz-type protease inhibitor ShPI-1 Lys13Leu mutant i,Kunitz-type proteinase inhibitor SHPI-1; Chymotrypsin-like elastase family membe,Stichodactyla helianthus; Sus scrofa,NOT_FP
+3VF1,X-RAY DIFFRACTION,2.473,698,Structure of a calcium-dependent 11R-lipoxygenase suggests a mechanism for Ca-re,11R-lipoxygenase,Gersemia fruticosa,UNKNOWN
+3VWI,X-RAY DIFFRACTION,1.7,180,High resolution crystal structure of FraC in the monomeric form,Fragaceatoxin C,Actinia fragacea,NOT_FP
+3W9P,X-RAY DIFFRACTION,2.1,180,Crystal structure of monomeric FraC (second crystal form),Fragaceatoxin C,Actinia fragacea,NOT_FP
+3WLC,X-RAY DIFFRACTION,2.49,448,Crystal structure of dimeric GCaMP6m,"Myosin light chain kinase, Green fluorescent protein, Calmodulin",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3WLD,X-RAY DIFFRACTION,2.7,448,Crystal structure of monomeric GCaMP6m,"Myosin light chain kinase, Green fluorescent protein, Calmodulin",Aequorea victoria; Gallus gallus; Rattus norvegicus,POTENTIAL_MISSING_FP
+3WMP,X-RAY DIFFRACTION,2.0,94,Crystal structure of SLL-2,Galactose-binding lectin,Sinularia lochmodes,TOO_SHORT:94AA
+3WMQ,X-RAY DIFFRACTION,1.6,94,Crystal structure of the complex between SLL-2 and GalNAc.,Galactose-binding lectin,Sinularia lochmodes,TOO_SHORT:94AA
+3ZWG,X-RAY DIFFRACTION,3.0,179,Crystal structure of the pore-forming toxin FraC from Actinia fragacea (form 2),FRAGACEATOXIN C,ACTINIA FRAGACEA,NOT_FP
+3ZWJ,X-RAY DIFFRACTION,2.37,179,CRYSTAL STRUCTURE OF THE PORE-FORMING TOXIN FRAC FROM ACTINIA FRAGACEA (Form 3),FRAGACEATOXIN C,ACTINIA FRAGACEA,NOT_FP
+4I2Y,X-RAY DIFFRACTION,2.2,419,Crystal Structure of the genetically encoded calcium indicator RGECO1,RGECO1,Gallus gallus; Discosoma sp.; Rattus norvegicus,UNKNOWN
+4LFQ,X-RAY DIFFRACTION,1.059,35,High resolution x-ray crystal structure of L-ShK toxin,Potassium channel toxin ShK,Stichodactyla helianthus,TOO_SHORT:35AA; NOT_FP
+4LFS,X-RAY DIFFRACTION,0.97,35,High resolution x-ray structure of racemic ShK toxin,Potassium channel toxin ShK,Stichodactyla helianthus,TOO_SHORT:35AA; NOT_FP
+4MRX,X-RAY DIFFRACTION,1.718,195,Crystal Structure of Y138F obelin mutant from Obelia longissima at 1.72 Angstrom,Obelin,Obelia longissima,UNKNOWN
+4MRY,X-RAY DIFFRACTION,1.299,195,Crystal Structure of Ca(2+)- discharged Y138F obelin mutant from Obelia longissi,Obelin,Obelia longissima,UNKNOWN
+4N1F,X-RAY DIFFRACTION,2.087,195,Crystal Structure of F88Y obelin mutant from Obelia longissima at 2.09 Angstrom ,Obelin,Obelia longissima,UNKNOWN
+4N1G,X-RAY DIFFRACTION,1.5,195,Crystal Structure of Ca(2+)- discharged F88Y obelin mutant from Obelia longissim,Obelin,Obelia longissima,UNKNOWN
+4QWT,X-RAY DIFFRACTION,2.002,696,Anaerobic crystal structure of delta413-417:GS LOX in complex with arachidonate,Allene oxide synthase-lipoxygenase protein,Plexaura homomalla,NOT_FP
+4RF6,X-RAY DIFFRACTION,1.95,718,Crystal structure of double-domain arginine kinase from Anthopleura japonicas,Arginine kinase,Anthopleura japonica,NOT_FP
+4RF7,X-RAY DIFFRACTION,2.1,718,Crystal structure of double-domain arginine kinase from Anthopleura japonicas in,Arginine kinase,Anthopleura japonica,NOT_FP
+4RF8,X-RAY DIFFRACTION,2.17,718,Crystal structure of double-domain arginine kinase from Anthopleura japonicas in,Arginine kinase,Anthopleura japonica,NOT_FP
+4RF9,X-RAY DIFFRACTION,2.35,718,Crystal structure of double-domain arginine kinase from Anthopleura japonicas in,Arginine kinase,Anthopleura japonica,NOT_FP
+4TSL,X-RAY DIFFRACTION,1.6,179,Crystal structure of FraC with POC bound (crystal form I),Fragaceatoxin C,Actinia fragacea,NOT_FP
+4TSN,X-RAY DIFFRACTION,1.57,179,Crystal structure of FraC with POC bound (crystal form II),Fragaceatoxin C,Actinia fragacea,NOT_FP
+4TSO,X-RAY DIFFRACTION,2.3,179,Crystal structure of FraC with DHPC bound (crystal form I),Fragaceatoxin C,Actinia fragacea,NOT_FP
+4TSP,X-RAY DIFFRACTION,2.15,179,Crystal structure of FraC with DHPC bound (crystal form II),Fragaceatoxin C,Actinia fragacea,NOT_FP
+4TSQ,X-RAY DIFFRACTION,1.6,179,Crystal structure of FraC with DHPC bound (crystal form III),Fragaceatoxin C,Actinia fragacea,NOT_FP
+4TSY,X-RAY DIFFRACTION,3.14,179,Crystal structure of FraC with lipids,Fragaceatoxin C,Actinia fragacea,NOT_FP
+4WDC,X-RAY DIFFRACTION,1.29,179,High-resolution crystal structure of water-soluble FraC (mutation F16P),Fragaceatoxin C,Actinia fragacea,NOT_FP
+4X0N,X-RAY DIFFRACTION,2.6001,496,"Porcine pancreatic alpha-amylase in complex with helianthamide, a novel proteina",Helianthamide; Pancreatic alpha-amylase,Stichodactyla helianthus; Sus scrofa,NOT_FP
+4XSQ,X-RAY DIFFRACTION,1.79,183,Structure of a variable lymphocyte receptor-like protein Bf66946 from Branchiost,variable lymphocyte receptor-like protein Bf66946,Branchiostoma floridae,NOT_FP
+4Z7P,X-RAY DIFFRACTION,1.2,35,X-ray structure of racemic ShK Q16K toxin,Potassium channel toxin kappa-stichotoxin-She1a,Stoichactis helianthus,TOO_SHORT:35AA; NOT_FP
+4Z8I,X-RAY DIFFRACTION,2.701,236,Crystal structure of Branchiostoma belcheri tsingtauense peptidoglycan recogniti,peptidoglycan recognition protein 3,Branchiostoma belcheri tsingtauense,UNKNOWN
+4ZIO,X-RAY DIFFRACTION,2.0,217,Irradiated state of mCherry143azF,mCherry,Discosoma,POTENTIAL_MISSING_FP
+4ZXM,X-RAY DIFFRACTION,2.8,256,Crystal structure of PGRP domain from Branchiostoma belcheri tsingtauense peptid,PGRP domain of peptidoglycan recognition protein 3,Branchiostoma belcheri tsingtauense,UNKNOWN
+5BKF,ELECTRON MICROSCOPY,,702,"Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, Glycine bound","Glycine receptor subunit beta,Green fluorescent protein; Glycine receptor subuni",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+5BKG,ELECTRON MICROSCOPY,,702,"Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, glycine bound","Glycine receptor subunit beta,Green fluorescent protein; Glycine receptor subuni",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+5BPG,X-RAY DIFFRACTION,2.14,180,Crystal structure of the water-soluble FraC purified starting from the trans-mem,Fragaceatoxin C,Actinia fragacea,NOT_FP
+5C2M,X-RAY DIFFRACTION,1.9,250,The de novo evolutionary emergence of a symmetrical protein is shaped by folding,Predicted protein,Nematostella vectensis,UNKNOWN
+5CFL,X-RAY DIFFRACTION,1.836,187,"Crystal structure of anemone STING (Nematostella vectensis) in complex with 3', ",Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5CFM,X-RAY DIFFRACTION,1.994,187,"Crystal structure of anemone STING (Nematostella vectensis) in complex with 3', ",Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5CFN,X-RAY DIFFRACTION,2.95,187,"Crystal structure of anemone STING (Nematostella vectensis) in complex with 3',3",Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5CFO,X-RAY DIFFRACTION,2.102,202,Crystal structure of anemone STING (Nematostella vectensis) in apo 'rotated' ope,Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5CFP,X-RAY DIFFRACTION,2.066,202,Crystal structure of anemone STING (Nematostella vectensis) 'humanized' F276K in,Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5CFQ,X-RAY DIFFRACTION,2.099,187,"Crystal structure of anemone STING (Nematostella vectensis) in complex with 2',3",Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5CFR,X-RAY DIFFRACTION,2.85,202,Crystal structure of anemone STING (Nematostella vectensis) in apo 'unrotated' c,Stimulator of Interferon Genes,Nematostella vectensis,UNKNOWN
+5GWF,X-RAY DIFFRACTION,1.55,180,FraC with GlcNAc(6S) bound,DELTA-actitoxin-Afr1a,Actinia fragacea,NOT_FP
+5I5A,X-RAY DIFFRACTION,1.2,35,quasi racemic structure of allo-Ile7-ShK and D-ShK,D-ShK; Kappa-stichotoxin-She3a,synthetic construct; Stichodactyla helianthus,TOO_SHORT:35AA; NOT_FP
+5I5B,X-RAY DIFFRACTION,0.9,35,quasi racemic structure of allo-Thr13-ShK and D-ShK,D-ShK; Kappa-stichotoxin-She3a,Stichodactyla helianthus; Synthetic construct,TOO_SHORT:35AA; NOT_FP
+5I5C,X-RAY DIFFRACTION,1.3,35,X-ray crystal structure of allo-Thr31-ShK,Kappa-stichotoxin-She3a,Stichodactyla helianthus,TOO_SHORT:35AA; NOT_FP
+5IG4,X-RAY DIFFRACTION,2.35,145,Crystal structure of N. vectensis CaMKII-A hub,Predicted protein,Nematostella vectensis,UNKNOWN
+5IG5,X-RAY DIFFRACTION,3.0,145,Crystal structure of N. vectensis CaMKII-B hub at pH 4.2,CaMKII-B hub,Nematostella vectensis,UNKNOWN
+5LAH,SOLUTION NMR,,45,NMR structure of the sea anemone peptide tau-AnmTx Ueq 12-1 with an uncommon fol,tau-AnmTx Ueq 12-1,Urticina eques,NON_XRAY:SOLUTION NMR; TOO_SHORT:45AA
+5UKG,X-RAY DIFFRACTION,2.36,417,Crystal Structure of the genetically encoded calcium indicator K-GECO,K-GECO,Entacmaea quadricolor,UNKNOWN
+5WCV,SOLUTION NMR,,29,AsK132958: A minimal homologue of ShK identified in the transcriptome of Anemoni,ShK homolog AsK132958,Anemonia sulcata,NON_XRAY:SOLUTION NMR; TOO_SHORT:29AA
+5WTS,X-RAY DIFFRACTION,3.004,358,Green fluorescent protein linked MTide-02 inhibitor in complex with mdm2,E3 ubiquitin-protein ligase Mdm2; Green fluorescent protein linked MTide-02,Camelus dromedarius; Aequorea victoria; Homo sapiens,POTENTIAL_MISSING_FP
+5X4A,X-RAY DIFFRACTION,3.4,94,SLL-2-Forssman antigen tetrasaccharides complex,Galactose-binding lectin,Sinularia lochmodes,TOO_SHORT:94AA
+5XPV,X-RAY DIFFRACTION,1.9,100,Structure of the V domain of amphioxus IgVJ-C2,amphioxus IgVJ-C2,Branchiostoma floridae,UNKNOWN
+5XPW,X-RAY DIFFRACTION,2.003,180,Structure of amphioxus IgVJ-C2 molecule,amphioxus IgVJ-C2,Branchiostoma floridae,UNKNOWN
+5YT1,X-RAY DIFFRACTION,2.0,254,Crystal structrure of near infrared fluoresecent protein mNeptune684,near infrared fluoresecent protein mNeptune684,Entacmaea quadricolor,UNKNOWN
+5Z1Y,SOLUTION NMR,,21,mBjAMP1 structure,mBjAMP1 peptide,Branchiostoma floridae,NON_XRAY:SOLUTION NMR; TOO_SHORT:21AA
+5ZAB,X-RAY DIFFRACTION,2.147,198,Crystal structure of cf3-aequorin,Aequorin-2,Aequorea victoria,UNKNOWN
+6A56,X-RAY DIFFRACTION,1.2,164,AJLec from the Sea Anemone Anthopleura japonica,AJLec,Anthopleura japonica,UNKNOWN
+6AZA,SOLUTION NMR,,18,NMR structure of sea anemone toxin Kappa-actitoxin-Ate1a,ARG-CYS-LYS-THR-CYS-SER-LYS-GLY-ARG-CYS-ARG-PRO-LYS-PRO-ASN-CYS-GLY-NH2,Actinia tenebrosa,NON_XRAY:SOLUTION NMR; TOO_SHORT:18AA; NOT_FP
+6B0B,X-RAY DIFFRACTION,3.28006215294,255,Crystal structure of human APOBEC3H,MCherry; RNA (5'-R(*UP*UP*UP*UP*UP*UP*UP*U)-3'); RNA (5'-R(*UP*AP*AP*AP*AP*AP*AP,Discosoma sp.; Escherichia coli; Homo sapiens,EXPLICITLY_EXCLUDED
+6B40,ELECTRON MICROSCOPY,,658,BbRAGL-3'TIR synaptic complex with nicked DNA refined with C2 symmetry,RAG2L; 31TIR pre-nicked strand of flanking DNA; 31TIR pre-nicked strand of signa,Branchiostoma belcheri,NON_XRAY:ELECTRON MICROSCOPY
+6BBO,X-RAY DIFFRACTION,3.428,219,Crystal structure of human APOBEC3H/RNA complex,MCherry fluorescent protein; RNA (5'-R(*UP*UP*UP*UP*UP*UP*UP*U)-3'); RNA (5'-R(*,Discosoma sp.; Escherichia coli; Homo sapiens,EXPLICITLY_EXCLUDED
+6BUC,SOLUTION NMR,,36,Structure of a new ShKT peptide from the sea anemone Oulactis sp.,OspTx2b,Oulactis,NON_XRAY:SOLUTION NMR; TOO_SHORT:36AA
+6CKD,SOLUTION NMR,,36,Structure of a new ShKT peptide from the sea anemone Oulactis sp: OspTx2a-p1,OspTx2a-p1,Oulactis,NON_XRAY:SOLUTION NMR; TOO_SHORT:36AA
+6CKF,SOLUTION NMR,,36,Structure of a new ShKT peptide from the sea anemone Oulactis sp: OspTx2a-p2,OspTx2a-p2,Oulactis,NON_XRAY:SOLUTION NMR; TOO_SHORT:36AA
+6CO7,ELECTRON MICROSCOPY,,1560,Structure of the nvTRPM2 channel in complex with Ca2+,Predicted protein,Nematostella vectensis,NON_XRAY:ELECTRON MICROSCOPY
+6ITC,ELECTRON MICROSCOPY,,780,Structure of a substrate engaged SecA-SecY protein translocation machine,Nanobody; Green fluorescent protein; Translocating peptide,Geobacillus thermodenitrificans (strain NG80-2); Bacillus su,NON_XRAY:ELECTRON MICROSCOPY
+6JC5,X-RAY DIFFRACTION,2.051,228,Crystal structure of the blue fluorescent protein with a Leu-Leu-Gly tri-peptide,shBFP,Stichodactyla haddoni,EXPLICITLY_EXCLUDED
+6K2G,X-RAY DIFFRACTION,2.22,179,Structure of FraE in the monomer state,FraE,Actinia fragacea,UNKNOWN
+6L26,NEUTRON DIFFRACTION,1.444,227,Neutron crystal structure of the mutant green fluorescent protein (EGFP),Green fluorescent protein,Aequorea victoria,NON_XRAY:NEUTRON DIFFRACTION
+6LZ2,X-RAY DIFFRACTION,2.03,232,Crystal structure of a thermostable green fluorescent protein (TGP) with a synth,synthetic nanobody (sybody) 44 against the thermostable green fluorescent protei,Galaxea fascicularis; Lama glama,POTENTIAL_MISSING_FP
+6MB2,ELECTRON MICROSCOPY,,226,Cryo-EM structure of the PYD filament of AIM2,Green fluorescent protein; Interferon-inducible protein AIM2,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+6MDR,ELECTRON MICROSCOPY,,247,Cryo-EM structure of the Ceru+32/GFP-17 protomer,GFP-17; Ceru+32,Aequorea victoria,NON_XRAY:ELECTRON MICROSCOPY
+6MWQ,ELECTRON MICROSCOPY,,493,Single particle cryoEM structure of a DARPin-aldolase platform in complex with G,"Green fluorescent protein; DARPin, Muscle-type aldolase chimeric fusion",Aequorea victoria; synthetic construct; Oryctolagus cuniculu,NON_XRAY:ELECTRON MICROSCOPY
+6NHV,ELECTRON MICROSCOPY,,319,Single particle reconstruction of DARPin and its bound GFP on a symmetric scaffo,Subunit A-DARPin; DARP14 - Subunit B; superfolder GFP,Aequorea victoria; Pyrococcus horikoshii (strain ATCC 700860,NON_XRAY:ELECTRON MICROSCOPY
+6NK9,SOLUTION NMR,,32,"Solution structure of AcaTx1, a potassium channel inhibitor from the sea anemone",Aca Toxin 1,Anthopleura,NON_XRAY:SOLUTION NMR; TOO_SHORT:32AA; NOT_FP
+6OQP,SOLUTION NMR,,13,U-AITx-Ate1,SER-LYS-TRP-ILE-CYS-ALA-ASN-ARG-SER-VAL-CYS-PRO-ILE,Actinia tenebrosa,NON_XRAY:SOLUTION NMR; TOO_SHORT:13AA
+6PX2,X-RAY DIFFRACTION,2.4,355,Acropora millepora GAPDH,Glyceraldehyde-3-phosphate dehydrogenase,Acropora millepora,NOT_FP
+6S68,X-RAY DIFFRACTION,2.06,230,Structure of the Fluorescent Protein AausFP2 from Aequorea cf. australis at pH 7,Aequorea cf. australis fluorescent protein 2 (AausFP2),Aequorea australis,POTENTIAL_MISSING_FP
+6S97,X-RAY DIFFRACTION,1.953,294,Fragment transplantation onto a hyperstable ancestor of haloalkane dehalogenases,Fragment transplantation onto hyperstable ancestor of haloalkane dehalogenases a,Renilla reniformis,UNKNOWN
+6T90,ELECTRON MICROSCOPY,,643,OCT4-SOX2-bound nucleosome - SHL-6,"Transcription factor SOX-2; Green fluorescent protein,POU domain, class 5, trans",Aequorea victoria; synthetic construct; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+6TV7,X-RAY DIFFRACTION,2.9,422,Crystal structure of rsGCaMP in the OFF state (illuminated),rsGCaMP,Aequorea victoria,UNKNOWN
+6TVH,X-RAY DIFFRACTION,2.651,336,Selenomethionine-substituted HPF1 from Nematostella vectensis,Predicted protein,Nematostella vectensis,UNKNOWN
+6TX1,X-RAY DIFFRACTION,2.091,336,HPF1 from Nematostella vectensis,Predicted protein,Nematostella vectensis,UNKNOWN
+6U1A,X-RAY DIFFRACTION,1.09,232,Crystal Structure of Fluorescent Protein FusionRed,Red fluorescent protein,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+6UX5,SOLUTION NMR,,50,Structure of acrorhagin I from the sea anemone Actinia equina,U-actitoxin-Aeq5a,Actinia equina,NON_XRAY:SOLUTION NMR; TOO_SHORT:50AA; NOT_FP
+6UZ0,ELECTRON MICROSCOPY,,1838,Cardiac sodium channel with flecainide,"Sodium channel protein type 5 subunit alpha,Green fluorescent protein",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+6UZ3,ELECTRON MICROSCOPY,,1838,Cardiac sodium channel,"Sodium channel protein type 5 subunit alpha,Green fluorescent protein",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+6VAL,ELECTRON MICROSCOPY,,615,Cryo-EM structure of an undecameric chicken CALHM1 and human CALHM2 chimera,"Green fluorescent protein, CALHM1,CALMH2 chimera",Aequorea victoria; Gallus gallus; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+6VAM,ELECTRON MICROSCOPY,,638,Cryo-EM structure of octameric chicken CALHM1,"Green fluorescent protein,CALHM1 chimera",Aequorea victoria; Gallus gallus,NON_XRAY:ELECTRON MICROSCOPY
+6WEM,X-RAY DIFFRACTION,2.04,225,Crimson 0.9,mCrimson 0.9,Entacmaea quadricolor,UNKNOWN
+6WI4,X-RAY DIFFRACTION,1.57,233,Caspases from Scleractinian Coral,ACE-DEVD inhibitor; Caspase-3; Caspase-3,Porites astreoides,NOT_FP
+6WRF,ELECTRON MICROSCOPY,,388,"ClpX-ClpP complex bound to GFP-ssrA, recognition complex",Green fluorescent protein; ATP-dependent Clp protease proteolytic subunit; ATP-d,Aequorea victoria; Escherichia coli (strain K12),NON_XRAY:ELECTRON MICROSCOPY
+6WSG,ELECTRON MICROSCOPY,,388,"ClpX-ClpP complex bound to ssrA-tagged GFP, intermediate complex","Green fluorescent protein, + ssrA tag; ATP-dependent Clp protease proteolytic su",Aequorea victoria; synthetic construct; Escherichia coli,NON_XRAY:ELECTRON MICROSCOPY
+6XYH,SOLUTION NMR,,40,NMR solution structure of alpha-AnmTX-Ms11a-2 (Ms11a-2),AMS3,Metridium senile,NON_XRAY:SOLUTION NMR; TOO_SHORT:40AA
+6XYI,SOLUTION NMR,,42,NMR solution structure of alpha-AnmTX- Ms11a-3 (Ms11a-3),AMS9.3.1,Metridium senile,NON_XRAY:SOLUTION NMR; TOO_SHORT:42AA
+6YA9,X-RAY DIFFRACTION,2.15,418,Crystal structure of rsGCaMP in the ON state (non-illuminated),rsCGaMP,Aequorea victoria,UNKNOWN
+6YN2,X-RAY DIFFRACTION,1.9,317,Crystal structure of Renilla reniformis luciferase variant RLuc8-W121F/E144Q in ,Coelenterazine h 2-monooxygenase,Renilla reniformis,UNKNOWN
+6YOV,ELECTRON MICROSCOPY,,631,OCT4-SOX2-bound nucleosome - SHL+6,"Transcription factor SOX-2; Green fluorescent protein,POU domain, class 5, trans",Aequorea victoria; synthetic construct; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7AA5,ELECTRON MICROSCOPY,,935,Human TRPV4 structure in presence of 4a-PDD,"Transient receptor potential cation channel subfamily V member 4,Green fluoresce",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7AUG,X-RAY DIFFRACTION,2.04,420,Crystal structure of rsGCamP1.3 in the ON state,rsGCamP1.3,Aequorea victoria,UNKNOWN
+7BWI,SOLUTION NMR,,42,Solution structure of recombinant APETx1,Kappa-actitoxin-Ael2a,Anthopleura elegantissima,NON_XRAY:SOLUTION NMR; TOO_SHORT:42AA; NOT_FP
+7BWN,X-RAY DIFFRACTION,2.396,280,Crystal Structure of a Designed Protein Heterocatenane,Cellular tumor antigen p53; Chimera of Green fluorescent protein and p53dim,Aequorea victoria; Homo sapiens,EXPLICITLY_EXCLUDED
+7BYL,ELECTRON MICROSCOPY,,979,Cryo-EM structure of human KCNQ4,"Calmodulin-3; Green fluorescent protein,Potassium voltage-gated channel subfamil",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7BYM,ELECTRON MICROSCOPY,,979,Cryo-EM structure of human KCNQ4 with retigabine,"Calmodulin-3; Green fluorescent protein,Potassium voltage-gated channel subfamil",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7BYN,ELECTRON MICROSCOPY,,979,Cryo-EM structure of human KCNQ4 with linopirdine,"Calmodulin-3; Green fluorescent protein,Potassium voltage-gated channel subfamil",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7CZ0,X-RAY DIFFRACTION,2.77,232,Crystal structure of a thermostable green fluorescent protein (TGP) with a synth,Synthetic nanobody (Sybody) 92 recognizing the thermostable green fluorescent pr,synthetic construct; Galaxea fascicularis,POTENTIAL_MISSING_FP
+7DMX,X-RAY DIFFRACTION,2.1,240,Photocleavable Fluorescent Protein in green form,PhoCl green,Aequorea victoria,POTENTIAL_MISSING_FP
+7DNA,X-RAY DIFFRACTION,2.3,240,Photocleavable Fluorescent Protein in green and red form,Green-to-red photoconvertible GFP-like protein; Green-to-red photoconvertible GF,Aequorea victoria,POTENTIAL_MISSING_FP
+7DNB,X-RAY DIFFRACTION,2.81,242,Crystal structure of PhoCl barrel,PhoCl Barrel,Aequorea victoria,UNKNOWN
+7EG2,X-RAY DIFFRACTION,2.22,198,Crystal structure of the apoAequorin complex with (S)-daCTZ,Aequorin-2,Aequorea victoria,UNKNOWN
+7EG3,X-RAY DIFFRACTION,2.09,198,Crystal structure of the apoAequorin complex with (S)-HM-daCTZ,Aequorin-2,Aequorea victoria,UNKNOWN
+7K18,ELECTRON MICROSCOPY,,1838,Cardiac Sodium channel with toxin bound,"Sodium channel protein type 5 subunit alpha, Enhanced Green fluorescent protein;",Aequorea victoria; Leiurus hebraeus; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+7K1M,SOLUTION NMR,,12,Peptide from stony coral Heliofungia actiniformis: Hact-1,GLY-CYS-HIS-TYR-THR-PRO-PHE-GLY-LEU-ILE-CYS-PHE peptide,Heliofungia actiniformis,NON_XRAY:SOLUTION NMR; TOO_SHORT:12AA; NOT_FP
+7KS0,ELECTRON MICROSCOPY,,1101,"GluK2/K5 with 6-Cyano-7-nitroquinoxaline-2,3-dione (CNQX)","Glutamate receptor ionotropic, kainate 2; Glutamate receptor ionotropic, kainate",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+7KS3,ELECTRON MICROSCOPY,,1101,GluK2/K5 with L-Glu,"Glutamate receptor ionotropic, kainate 2; Glutamate receptor ionotropic, kainate",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+7KUY,ELECTRON MICROSCOPY,,702,"Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, strychnine bo","Glycine receptor subunit alpha-2; Glycine receptor subunit beta, Green fluoresce",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7L31,ELECTRON MICROSCOPY,,702,"Cyro-EM structure of human Glycine Receptor alpha2-beta heteromer, strychnine bo","Glycine receptor subunit beta,Green fluorescent protein; Glycine receptor subuni",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7LQO,X-RAY DIFFRACTION,2.1,262,Crystal structure of a genetically encoded red fluorescent peroxynitrite biosens,red fluorescent peroxynitrite biosensor pnRFP,Discosoma sp.,POTENTIAL_MISSING_FP
+7LRW,SOLUTION NMR,,21,Structure of Hact-2,Hact-2,Heliofungia actiniformis,NON_XRAY:SOLUTION NMR; TOO_SHORT:21AA
+7LT7,SOLUTION NMR,,35,Structure of Hact-3,Hact-3,Heliofungia actiniformis,NON_XRAY:SOLUTION NMR; TOO_SHORT:35AA
+7LUG,X-RAY DIFFRACTION,1.95,262,Crystal structure of the pnRFP B30Y mutant,Red Fluorescent pnRFP B30Y mutant,Discosoma sp.,POTENTIAL_MISSING_FP
+7LX4,SOLUTION NMR,,41,Structure of Hact-SCRiP1,Hact-SCRiP1,Heliofungia actiniformis,NON_XRAY:SOLUTION NMR; TOO_SHORT:41AA
+7MJ3,SOLUTION NMR,,44,Structure of Hact-4,Hact-4,Heliofungia actiniformis,NON_XRAY:SOLUTION NMR; TOO_SHORT:44AA
+7N7H,X-RAY DIFFRACTION,1.42,293,X-ray crystal structure of Viperin-like enzyme from Nematostella vectensis,VIPERIN-LIKE ENZYME,Nematostella vectensis,UNKNOWN
+7O3U,X-RAY DIFFRACTION,1.8,195,The crystal structure of obelin from Obelia longissima bound with v-coelenterazi,Obelin,Obelia longissima,UNKNOWN
+7OD2,SOLUTION NMR,,34,NMR structure of the Anemonia erythraea AeTX-K toxin,Kappa-actitoxin-Aer3a,Anemonia erythraea,NON_XRAY:SOLUTION NMR; TOO_SHORT:34AA; NOT_FP
+7OMD,X-RAY DIFFRACTION,1.601,317,Crystal structure of azacoelenterazine-bound Renilla reniformis luciferase varia,Coelenterazine h 2-monooxygenase,Renilla reniformis,UNKNOWN
+7OMO,X-RAY DIFFRACTION,1.451,317,Crystal structure of coelenteramine-bound Renilla reniformis luciferase RLuc8-D1,Renilla reniformis luciferase RLuc8-D120A variant,Renilla reniformis,UNKNOWN
+7OMR,X-RAY DIFFRACTION,1.5,317,Crystal structure of coelenteramide-bound Renilla reniformis luciferase RLuc8-D1,Coelenterazine h 2-monooxygenase,Renilla reniformis,UNKNOWN
+7PHR,ELECTRON MICROSCOPY,,356,Structure of a fully assembled T-cell receptor engaging a tumor-associated pepti,T-cell receptor alpha chain; T-cell receptor beta chain; T-cell surface glycopro,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7Q71,X-RAY DIFFRACTION,2.0,233,The crystallographic structure of the Ligand Binding domain of the NR7 nuclear r,Nuclear hormone receptor 7,Branchiostoma lanceolatum,NOT_FP
+7RHA,X-RAY DIFFRACTION,1.8,235,A new fluorescent protein darkmRuby at pH 5.0,darkmRuby,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+7RHB,X-RAY DIFFRACTION,2.51,235,A new fluorescent protein darkmRuby at pH 8.0,darkmRuby,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+7RHC,X-RAY DIFFRACTION,2.8,235,A new fluorescent protein darkmRuby at pH 9.0,darkmRuby,Entacmaea quadricolor,POTENTIAL_MISSING_FP
+7RHD,X-RAY DIFFRACTION,1.9,235,darkmRuby M94T/F96Y mutant at pH 7.5,darkmRuby M94T/F96Y mutant,Entacmaea quadricolor,UNKNOWN
+7S5L,X-RAY DIFFRACTION,1.58,393,Cembrene A synthase from Eleutherobia rubra,Cembrene A synthase,Eleutherobia rubra,NOT_FP
+7SQY,ELECTRON MICROSCOPY,,453,CSDaV GFP mutant,"Citrus Sudden Death-associated Virus Capsid Protein,Green fluorescent protein,Ci",Aequorea victoria; Citrus sudden death-associated virus,NON_XRAY:ELECTRON MICROSCOPY
+7SSV,ELECTRON MICROSCOPY,,856,Structure of human Kv1.3 with Fab-ShK fusion,"Fab-ShK fusion, light chain; Fab-ShK fusion, heavy chain; Potassium voltage-gate",Aequorea victoria; unidentified; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7SSX,ELECTRON MICROSCOPY,,856,Structure of human Kv1.3,"Potassium voltage-gated channel subfamily A member 3, Green fluorescent protein ",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7SSY,ELECTRON MICROSCOPY,,856,Structure of human Kv1.3 (alternate conformation),"Potassium voltage-gated channel subfamily A member 3,Green fluorescent protein f",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7SSZ,ELECTRON MICROSCOPY,,856,Structure of human Kv1.3 with A0194009G09 nanobodies,"Nanobody A0194009G09; Potassium voltage-gated channel subfamily A member 3,Green",synthetic construct; Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7VQQ,ELECTRON MICROSCOPY,,483,Cryo-EM structure of amyloid fibril formed by FUS low complexity domain,fusion protein of mCerulean and FUS LCD,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7XM9,ELECTRON MICROSCOPY,,2250,Cryo-EM structure of human NaV1.7/beta1/beta2-XEN907,"Sodium channel subunit beta-2; Sodium channel subunit beta-1,Green fluorescent p",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7XMF,ELECTRON MICROSCOPY,,2250,Cryo-EM structure of human NaV1.7/beta1/beta2-Nav1.7-IN2,"Sodium channel subunit beta-2; Sodium channel subunit beta-1,Green fluorescent p",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7XMG,ELECTRON MICROSCOPY,,2250,Cryo-EM structure of human NaV1.7/beta1/beta2-TCN-1752,"Sodium channel subunit beta-2; Sodium channel subunit beta-1,Green fluorescent p",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+7YDQ,ELECTRON MICROSCOPY,,683,Structure of PfNT1(Y190A)-GFP in complex with GSK4,"Nucleoside transporter 1,Green fluorescent protein",Plasmodium falciparum 3D7; Aequorea victoria,NON_XRAY:ELECTRON MICROSCOPY
+8A9S,X-RAY DIFFRACTION,2.1,195,Crystal structure of Ca2+-discharged obelin in complex with coelenteramine-v,Obelin,Obelia longissima,UNKNOWN
+8BVC,SOLUTION NMR,,42,Solution structure of Metridium senile toxin Ms13-1 with the unique fold,Ms13-1,Metridium senile,NON_XRAY:SOLUTION NMR; TOO_SHORT:42AA; NOT_FP
+8C6O,X-RAY DIFFRACTION,2.2,195,Crystal Structure of H64F obelin mutant from Obelia longissima at 2.2 Angstrom r,Obelin,Obelia longissima,UNKNOWN
+8DFL,ELECTRON MICROSCOPY,,856,Structure of human Kv1.3 with A0194009G09 nanobodies (alternate conformation),"Nanobody A0194009G09; Potassium voltage-gated channel subfamily A member 3,Green",Aequorea victoria; Homo sapiens; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+8DHY,X-RAY DIFFRACTION,2.15,239,N-terminal fragment of MsbA fused to GFP in complex with copper(II),"Fusion protein of MsbA N-terminal fragment and GFP,Green fluorescent protein",Aequorea victoria; Escherichia coli,POTENTIAL_MISSING_FP
+8DJ8,X-RAY DIFFRACTION,2.0,219,Crystal Structure of Calgreen 1 protein,Calgreen One,Corynactis californica,UNKNOWN
+8DN2,ELECTRON MICROSCOPY,,680,"Cryo-EM structure of human Glycine Receptor alpha1-beta heteromer, glycine-bound","Glycine receptor subunit beta,Green fluorescent protein,Glycine receptor beta; G",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8DN3,ELECTRON MICROSCOPY,,680,"Cryo-EM structure of human Glycine Receptor alpha1-beta heteromer, apo state","Glycine receptor subunit beta,Green fluorescent protein,Glycine receptor beta; G",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8DN5,ELECTRON MICROSCOPY,,680,"Cryo-EM structure of human Glycine Receptor alpha1-beta heteromer, glycine-bound","Glycine receptor subunit beta,Green fluorescent protein,Glycine receptor beta; G",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8EFM,X-RAY DIFFRACTION,2.13,196,"Structure of coral STING receptor from Stylophora pistillata in complex with 2',",Stimulator of interferon genes protein,Stylophora pistillata,NOT_FP
+8EFN,X-RAY DIFFRACTION,1.73,185,"Structure of Sp-STING3 from Stylophora pistillata coral in complex with 3',3'-cG",Stimulator of interferon genes protein,Stylophora pistillata,UNKNOWN
+8F6P,ELECTRON MICROSCOPY,,1838,Rat Cardiac Sodium Channel with Ranolazine Bound,"Sodium channel protein type 5 subunit alpha,Green fluorescent protein",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8G1I,ELECTRON MICROSCOPY,,1384,SpCas9 with sgRNA and target DNA,DNA E2_NTS; DNA E2_TS; CRISPR-associated endonuclease Cas9/Csn1,Streptococcus pyogenes; Renilla reniformis,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+8G4E,ELECTRON MICROSCOPY,,322,Green Fluorescence Protein imaged on a cryo-EM imaging scaffold,Superfolder Green Fluorescent Protein; RCG-10 - Cryo-EM imaging scaffold subunit,Aequorea victoria; synthetic construct,NON_XRAY:ELECTRON MICROSCOPY
+8GJY,X-RAY DIFFRACTION,1.5,376,Structure of a cGAS-like receptor Sp-cGLR1 from S. pistillata,cGAS-like receptor 1,Stylophora pistillata,NOT_FP
+8GJZ,X-RAY DIFFRACTION,2.92,188,Structure of a STING receptor from S. pistillata Sp-STING1 bound to 2'3'-cUA,Stimulator of interferon genes protein,Stylophora pistillata,NOT_FP
+8HCO,ELECTRON MICROSCOPY,,553,Substrate-engaged TOM complex from yeast,sfGFP; Mitochondrial import receptor subunit TOM7; Mitochondrial import receptor,Aequorea victoria; Saccharomyces cerevisiae S288C,NON_XRAY:ELECTRON MICROSCOPY
+8I4K,X-RAY DIFFRACTION,1.84,227,"Structure of Azami Red1.0, a red fluorescent protein engineered from Azami Green",Azami Red1.0,Galaxea fascicularis,POTENTIAL_MISSING_FP
+8IMX,ELECTRON MICROSCOPY,,886,Cryo-EM structure of GPI-T with a chimeric GPI-anchored protein,Met-Ser-Ser peptide; Phosphatidylinositol glycan anchor biosynthesis class U pro,synthetic construct; Homo sapiens; Clavularia sp.,NON_XRAY:ELECTRON MICROSCOPY
+8IMY,ELECTRON MICROSCOPY,,886,"Cryo-EM structure of GPI-T (inactive mutant) with GPI and proULBP2, a proprotein","Phosphatidylinositol glycan anchor biosynthesis class U protein,GFP-like fluores",Homo sapiens; Clavularia sp.,NON_XRAY:ELECTRON MICROSCOPY
+8J0J,ELECTRON MICROSCOPY,,826,AtSLAC1 8D mutant in closed state,"Guard cell S-type anion channel SLAC1,Green fluorescent protein",Aequorea victoria; Arabidopsis thaliana,NON_XRAY:ELECTRON MICROSCOPY
+8J1E,ELECTRON MICROSCOPY,,826,AtSLAC1 in open state,"Guard cell S-type anion channel SLAC1,Green fluorescent protein",Aequorea victoria; Arabidopsis thaliana,NON_XRAY:ELECTRON MICROSCOPY
+8J6M,ELECTRON MICROSCOPY,,1098,SIDT1 protein,"Green fluorescent protein,SID1 transmembrane family member 1",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8J6O,ELECTRON MICROSCOPY,,1104,transport T2,"Green fluorescent protein (Fragment),SID1 transmembrane family member 2",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8J7F,ELECTRON MICROSCOPY,,289,ion channel,ILE-ALA-ALA-ILE-HIS-ASN-ALA-ARG-ARG-LYS-LYS-ARG-GLU-ALA-ALA-ALA-ALA-HIS-LYS-ALA;,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8J7M,ELECTRON MICROSCOPY,,803,ion channel,"ion channel,Voltage dependent ion channel,Green fluorescent protein (Fragment),V",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8K4S,ELECTRON MICROSCOPY,,710,CryoEM structure of Gq coupled MRGPRX4 with agonist DCA-3P,scFv16; Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2; Guani,Aequorea victoria; Escherichia coli; Homo sapiens; Mus muscu,NON_XRAY:ELECTRON MICROSCOPY
+8KEX,ELECTRON MICROSCOPY,,710,"CryoEM structure of Gq coupled MRGPRX4 with agonist DCA-3P, local","Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4,Green f",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8OTS,ELECTRON MICROSCOPY,,544,OCT4 and MYC-MAX co-bound to a nucleosome,Histone H3.1; Histone H4; Histone H2A type 1-B/E,synthetic construct; Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8PEI,X-RAY DIFFRACTION,3.0,228,Crystal structure of the biphotochromic fluorescent protein SAASoti (C21N/V127T ,C21N/V127T form of the biphotochromic fluorescent protein SAASoti,Stylocoeniella armata,POTENTIAL_MISSING_FP
+8QJ2,ELECTRON MICROSCOPY,,729,Structure of active state MC4R in complex with a potent ligand mimicking nanobod,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1; Guanine nucleo,Discosoma sp.; Escherichia coli; Homo sapiens; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+8RL9,ELECTRON MICROSCOPY,,442,RECQL5:sfGFP hetero dimer assembled by Di-Gluebody,ATP-dependent DNA helicase Q5; Gluebody G5-006; Gluebody GbEnhancer,Aequorea victoria; Homo sapiens; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+8RLB,ELECTRON MICROSCOPY,,238,RECQL5:sfGFP hetero dimer assembled by Di-Gluebody - sfGFP local refinement,Gluebody G5-006; Gluebody GbEnhancer; Green fluorescent protein,Aequorea victoria; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+8RLC,ELECTRON MICROSCOPY,,556,SPNS2:sfGFP hetero dimer assembled by Di-Gluebody,Sphingosine-1-phosphate transporter SPNS2; Gluebody GbC4; Gluebody GbEnhancer,Aequorea victoria; Homo sapiens; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+8RLE,ELECTRON MICROSCOPY,,238,SPNS2:sfGFP hetero dimer assembled by Di-Gluebody - sfGFP local refinement,Gluebody GbC4; Gluebody GbEnhancer; Green fluorescent protein,Aequorea victoria; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+8SED,SOLUTION NMR,,37,Structure of a new ShKT peptide from the sea anemone Telmatactis stephensoni: Sh,ShKT peptide ShKT-Ts1,Telmatactis stephensoni,NON_XRAY:SOLUTION NMR; TOO_SHORT:37AA
+8SEM,SOLUTION NMR,,39,"Structural and functional characterisation of Tst2, a novel TRPV1 inhibitory pep",TRPV1 inhibitory peptide Tst2,Telmatactis stephensoni,NON_XRAY:SOLUTION NMR; TOO_SHORT:39AA; NOT_FP
+8SYG,ELECTRON MICROSCOPY,,407,Cryo-EM structure of tetradecameric hub domain of CaMKII alpha,Venus-tagged CaMKII Alpha Association Domain,Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8T15,ELECTRON MICROSCOPY,,407,Cryo-EM structure of dodecameric hub domain of CaMKII alpha,Venus-tagged CaMKII Alpha Association Domain,Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8T17,ELECTRON MICROSCOPY,,407,Cryo-EM structure of tetradecameric hub domain of CaMKII beta,Venus-tagged CaMKII Beta Association Domain,Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8T18,ELECTRON MICROSCOPY,,407,Cryo-EM structure of dodecameric hub domain of CaMKII beta,Venus-tagged CaMKII Alpha Association Domain,Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8T6K,ELECTRON MICROSCOPY,,815,Cryo-EM structure of tetradecameric CaMKII beta holoenzyme T287A T306A T307A,Venus-tagged CaMKII Beta Holoenzyme mutant,Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8T6L,ELECTRON MICROSCOPY,,1874,Cryo-EM structure of rat cardiac sodium channel NaV1.5 with batrachotoxin analog,"Sodium channel protein type 5 subunit alpha,Green fluorescent protein",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8T6Q,ELECTRON MICROSCOPY,,815,Cryo-EM structure of dodecameric CaMKII beta holoenzyme T287A T306A T307A,Venus-tagged CaMKII beta holoenzyme mutant,Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+8TC3,ELECTRON MICROSCOPY,,518,CryoEM structure of nucleotide-free form of the nitrogenase iron protein from A.,"Nitrogenase iron protein,Fluorescent protein plum",Discosoma sp. LW-2004; Azotobacter vinelandii DJ,NON_XRAY:ELECTRON MICROSCOPY
+8THR,ELECTRON MICROSCOPY,,858,Structure of the human vesicular monoamine transporter 2 (VMAT2) bound to tetrab,"fluorescent protein mVenus,Synaptic vesicular amine transporter,GFP nano body,Sy",Aequorea victoria; Homo sapiens; Vicugna pacos,NON_XRAY:ELECTRON MICROSCOPY
+8TLM,ELECTRON MICROSCOPY,,671,Structure of a class A GPCR/Fab complex,"C-C chemokine receptor type 8, Green fluorescent protein fusion; Fab light chain",Aequorea victoria; Homo sapiens; Oryctolagus cuniculus,NON_XRAY:ELECTRON MICROSCOPY
+8TU9,ELECTRON MICROSCOPY,,903,Cryo-EM structure of HGSNAT-acetyl-CoA complex at pH 7.5,"Enhanced green fluorescent protein,Heparan-alpha-glucosaminide N-acetyltransfera",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8UBG,ELECTRON MICROSCOPY,,497,DpHF19 filament,"DpHF19,Green fluorescent protein (Fragment)",synthetic construct; Aequorea victoria,NON_XRAY:ELECTRON MICROSCOPY
+8W2L,ELECTRON MICROSCOPY,,1534,TRPM7 structure in complex with anticancer agent CCT128930 in closed state,"Green fluorescent protein,Transient receptor potential cation channel subfamily ",Aequorea victoria; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+8WG3,ELECTRON MICROSCOPY,,1117,mouse TMEM63b in LMNG-CHS micelle,"CSC1-like protein 2,Green fluorescent protein",Aequorea victoria; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+8WG4,ELECTRON MICROSCOPY,,1117,mouse TMEM63b in DDM-CHS micelle with YN9303-24 Fab,"CSC1-like protein 2,Green fluorescent protein",Aequorea victoria; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+8WGP,X-RAY DIFFRACTION,2.9,223,Crystal structure of DsRed-Monomer,Red fluorescent protein,Discosoma sp.,POTENTIAL_MISSING_FP
+8X2X,ELECTRON MICROSCOPY,,586,The piccolo NuA4 bound to the H2A.Z nucleosome complex at pre-H4-acetylation sta,Histone H2B; Histone H2A; Histone H4,Saccharomyces cerevisiae; Escherichia coli; Schistosoma japo,NON_XRAY:ELECTRON MICROSCOPY
+8X2Z,ELECTRON MICROSCOPY,,586,The class2 of piccolo NuA4 bound to the H2A.Z nucleosome complex at harboring st,"DNA (146-MER); Chromatin modification-related protein; glutathione transferase,E",Saccharomyces cerevisiae; Escherichia coli; Schistosoma japo,NON_XRAY:ELECTRON MICROSCOPY
+8X32,ELECTRON MICROSCOPY,,586,The piccolo NuA4 bound to the H2A.Z nucleosome-H4KQ Complex with Ac-CoA at reset,Histone H2B; Histone H2A; Histone H4,Saccharomyces cerevisiae; Escherichia coli; Schistosoma japo,NON_XRAY:ELECTRON MICROSCOPY
+8XAL,ELECTRON MICROSCOPY,,1278,Cryo-EM structure of SARS-CoV-2 S-BQ.1 in complex with ACE2,"Angiotensin-converting enzyme 2,Green fluorescent protein (Fragment); Spike glyc",Severe acute respiratory syndrome coronavirus 2; Aequorea vi,NON_XRAY:ELECTRON MICROSCOPY
+8XTW,ELECTRON MICROSCOPY,,851,Structure of human VAChT in complex with acetylcholine,"Vesicular acetylcholine transporter,Green fluorescent protein,antibody",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8XTX,ELECTRON MICROSCOPY,,851,Structure of human VAChT in an apo conformation,"Vesicular acetylcholine transporter,Green fluorescent protein,antibody",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8XTY,ELECTRON MICROSCOPY,,851,Structure of human VAChT in complex with vesamicol,"Vesicular acetylcholine transporter,Green fluorescent protein,antibody",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8Y8V,ELECTRON MICROSCOPY,,607,Cryo-EM structure of AQP7 in POPC nanodisc,"Green fluorescent protein,Aquaporin-7",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+8YA0,ELECTRON MICROSCOPY,,765,Structure of the SecA-SecY complex with the substrate FtsQ-LacY(+7C),"Green fluorescent protein; Nanobody; Cell division protein FtsQ,Lactose permease",Bacillus subtilis subsp. subtilis str. 168; Geobacillus ther,NON_XRAY:ELECTRON MICROSCOPY
+8YA2,ELECTRON MICROSCOPY,,778,Structure of the SecA-SecY complex with the substrate FtsQ-LacY(+20C),"Green fluorescent protein; Nanobody; Cell division protein FtsQ,Lactose permease",Bacillus subtilis subsp. subtilis str. 168; Geobacillus ther,NON_XRAY:ELECTRON MICROSCOPY
+8Z0G,X-RAY DIFFRACTION,2.65,593,Crystal structure of NeIle complexed with isoleucine,"Leu/Ile/Val-binding protein,Leu/Ile/Val-binding protein,mNeonGreen",Escherichia coli O157:H7; Branchiostoma lanceolatum,NOT_FP
+8ZBO,X-RAY DIFFRACTION,2.0,221,Crystal structure of the biphotochromic fluorescent protein moxSAASoti (F97M var,F97M variant of the biphotochromic fluorescent protein moxSAASoti,Stylocoeniella armata,POTENTIAL_MISSING_FP
+8ZMZ,ELECTRON MICROSCOPY,,620,Cryo-EM structure of R-eLACCO2 in the lactate-bound state,"Lactate-binding periplasmic protein TTHA0766,Red fluorescent protein drFP583",Discosoma sp.; Thermus thermophilus HB8,NON_XRAY:ELECTRON MICROSCOPY
+8ZWZ,X-RAY DIFFRACTION,3.5,412,terpene synthases with from Paramuricea clavata,Diterpene synthase,Paramuricea clavata,NOT_FP
+9BOI,ELECTRON MICROSCOPY,,1275,Cryo-EM structure of human Spns1 in complex with LPC (18:1),"mVenus,Maltose/maltodextrin-binding periplasmic protein,Protein spinster homolog",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9C7C,ELECTRON MICROSCOPY,,1126,"Diheteromeric GluN1/GluN2A (delM653) in nanodisc complexed with glycine, glutama","Glutamate receptor ionotropic, NMDA 2A,Green fluorescent protein chimera; Glutam",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9C7E,ELECTRON MICROSCOPY,,1126,"Diheteromeric GluN1/GluN2A (delM653) in nanodisc complex with glycine, glutamate","Glutamate receptor ionotropic, NMDA 2A,Green fluorescent protein chimera; Glutam",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9C7P,ELECTRON MICROSCOPY,,1126,"Diheteromeric GluN1/GluN2A (delM653) in digitonin complexed with glycine, glutam","Glutamate receptor ionotropic, NMDA 2A, Green fluorescent protein chimera; Gluta",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9C7Q,ELECTRON MICROSCOPY,,1126,"Diheteromeric NMDA receptor GluN1/GluN2A, in complex with glycine and glutamate","Glutamate receptor ionotropic, NMDA 2A, Green fluorescent protein chimera; Gluta",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9C7R,ELECTRON MICROSCOPY,,1127,"Diheteromeric GluN1/GluN2A (M817V) in digitonin complexed with glycine, glutamat","Glutamate receptor ionotropic, NMDA 2A, Green fluorescent protein chimera; Gluta",Aequorea victoria; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9CLA,ELECTRON MICROSCOPY,,856,Human Kv1.3 mutant-H451V,"Potassium voltage-gated channel subfamily A member 3,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9CLV,ELECTRON MICROSCOPY,,856,Human Kv1.3 mutant-P424G,"Potassium voltage-gated channel subfamily A member 3/mVenus fusion protein,Green",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9CON,ELECTRON MICROSCOPY,,856,Human Kv1.3-H451V with A0194009G09 nanobodies conformation 1,A0194009G09 nanobody; Potassium voltage-gated channel subfamily A member 3/mVenu,Aequorea victoria; Homo sapiens; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+9CRB,SOLUTION NMR,,28,"Structure of Avt1, a novel peptide from the sea anemone Aulactinia veratra",Avt1 peptide,Aulactinia veratra,NON_XRAY:SOLUTION NMR; TOO_SHORT:28AA; NOT_FP
+9CTY,ELECTRON MICROSCOPY,,856,Human Kv1.3-H451V with A0194009G09 nanobodies conformation 2,A0194009G09 nanobody; Potassium voltage-gated channel subfamily A member 3/mVenu,Aequorea victoria; Homo sapiens; Lama glama,NON_XRAY:ELECTRON MICROSCOPY
+9CXT,ELECTRON MICROSCOPY,,494,Hemagglutinin A/Hong Kong/1/68 produced in GnTI- cells,"Hemagglutinin HA2 chain,Green fluorescent protein fusion; Hemagglutinin HA1 chai",Aequorea victoria; Influenza A virus (strain A/Hong Kong/1/1,NON_XRAY:ELECTRON MICROSCOPY
+9CXU,ELECTRON MICROSCOPY,,494,Endo H-treated hemagglutinin A/Hong Kong/1/68,"Hemagglutinin HA2 chain,Green fluorescent protein fusion; Hemagglutinin HA1 chai",Aequorea victoria; Influenza A virus (strain A/Hong Kong/1/1,NON_XRAY:ELECTRON MICROSCOPY
+9D0Y,ELECTRON MICROSCOPY,,486,Map of endoH-treated hemagglutinin A/Sing/INFIMH/16,"Hemagglutinin HA2 chain, Green fluorescent protein fusion; Hemagglutinin HA1 cha",Aequorea victoria; Influenza A virus,NON_XRAY:ELECTRON MICROSCOPY
+9E8O,ELECTRON MICROSCOPY,,953,Nub1/Fat10-processing human 26S proteasome bound to Txnl1 with Rpt2 at top of sp,26S protease regulatory subunit 8; Proteasome subunit alpha type-6; Proteasome s,Homo sapiens; Lobophyllia hemprichii,NON_XRAY:ELECTRON MICROSCOPY
+9EBW,X-RAY DIFFRACTION,2.78,515,"Chimeric fluorescence biosensor formed from a lactate-binding protein and GFP, b","Green fluorescent protein,Methyl-accepting chemotaxis transducer (TlpC)",Helicobacter pylori; Aequorea victoria,POTENTIAL_MISSING_FP
+9EBX,X-RAY DIFFRACTION,2.42,515,Chimeric fluorescence biosensor formed from a lactate-binding protein and GFP,"Green fluorescent protein,Methyl-accepting chemotaxis transducer (TlpC)",Helicobacter pylori; Aequorea victoria,POTENTIAL_MISSING_FP
+9EYL,X-RAY DIFFRACTION,1.5,209,dN53 deletion variant of monomeric Fav - actinoporin from Orbicella faveolata,dN53_Fav,Orbicella faveolata,NOT_FP
+9EYM,ELECTRON MICROSCOPY,,262,The structure of solubilized octameric pore of actinoporin Fav prepared on DOPC:,Actinoporin,Orbicella faveolata,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9EYN,ELECTRON MICROSCOPY,,262,"The structure of solubilized octameric pore of actinoporin Fav prepared on DOPC,",Actinoporin,Orbicella faveolata,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9EYO,ELECTRON MICROSCOPY,,209,"The structure of solubilized octameric pore of actinoporin Fav prepared on POPG,",Actinoporin,Orbicella faveolata,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9EYP,ELECTRON MICROSCOPY,,193,The structure of octameric pore of RN1 variant of actinoporin Fav,Actinoporin,Orbicella faveolata,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9EYQ,ELECTRON MICROSCOPY,,193,The structure of nonameric pore of RN1 variant of actinoporin Fav,Actinoporin,Orbicella faveolata,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9F33,ELECTRON MICROSCOPY,,669,Cryo-EM structure of Dopamine 3 Receptor:Go complex bound to bitopic FOB02-04A -,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1; Guanine nucleo,Aequorea victoria; Mus musculus; Homo sapiens; Rattus norveg,NON_XRAY:ELECTRON MICROSCOPY
+9GE2,ELECTRON MICROSCOPY,,650,Structure of GPR55 in complex with G13 and synthetic agonist ML184,"Green fluorescent protein,G-protein coupled receptor 55,G-protein coupled recept",Aequorea victoria; Homo sapiens; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+9GE3,ELECTRON MICROSCOPY,,650,Structure of GPR55 in complex with G13 and endogenous lipid agonist lysophosphat,"Green fluorescent protein,G-protein coupled receptor 55,G-protein coupled recept",Aequorea victoria; Homo sapiens; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+9GJ8,ELECTRON MICROSCOPY,,175,Structure of Sticholisin II in large unilamellar vesicles.,DELTA-stichotoxin-She4b,Stichodactyla helianthus,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9GKI,ELECTRON MICROSCOPY,,175,Structure of 5mer pore intermediate of Sticholysin II (StnII) toxin in lipid nan,DELTA-stichotoxin-She4b,Stichodactyla helianthus,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9GKL,ELECTRON MICROSCOPY,,178,Structure of the octameric pore of Fragaceotxin C (FraC or DELTA-actitoxin-Afr1a,DELTA-actitoxin-Afr1a,Actinia fragacea,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9GKO,ELECTRON MICROSCOPY,,175,Structure of 6mer pore intermediate of Sticholysin II (StnII) toxin in lipid nan,DELTA-stichotoxin-She4b,Stichodactyla helianthus,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9GKP,ELECTRON MICROSCOPY,,178,Structure of fragacetoxin C in lipid nanodiscs,DELTA-actitoxin-Afr1a,Actinia fragacea,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9GU0,ELECTRON MICROSCOPY,,721,Human adult muscle nAChR in resting state in detergent with alpha-bungarotoxin,"Alpha-bungarotoxin; Fab35 heavy chain; Acetylcholine receptor subunit epsilon,Gr",Aequorea victoria; Bungarus multicinctus; Homo sapiens; Ratt,NON_XRAY:ELECTRON MICROSCOPY
+9GU1,ELECTRON MICROSCOPY,,721,Human adult muscle nAChR in resting state in nanodisc with alpha-bungarotoxin,"Alpha-bungarotoxin; Fab35 heavy chain; Acetylcholine receptor subunit epsilon,Gr",Aequorea victoria; Bungarus multicinctus; Homo sapiens; Ratt,NON_XRAY:ELECTRON MICROSCOPY
+9GU2,ELECTRON MICROSCOPY,,721,Human adult muscle nAChR in desensitised state in nanodisc with 100 uM acetylcho,Acetylcholine receptor subunit alpha; Acetylcholine receptor subunit beta; Acety,Aequorea victoria; Homo sapiens; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9GU3,ELECTRON MICROSCOPY,,721,Human adult muscle nAChR in desensitised state in nanodisc with 1 mM acetylcholi,Acetylcholine receptor subunit delta; Fab35 heavy chain; Fab35 light chain,Aequorea victoria; Homo sapiens; Rattus norvegicus,NON_XRAY:ELECTRON MICROSCOPY
+9HAA,ELECTRON MICROSCOPY,,679,a5b3 GABAA Receptor resting state,"Gamma-aminobutyric acid receptor subunit beta-3,Green fluorescent protein; Green",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9HNQ,ELECTRON MICROSCOPY,,679,a5b3 GABAA Receptor bound to GABA and Mb25 in desensitized state in detergent mi,"Mb25; Gamma-aminobutyric acid receptor subunit beta-3,Green fluorescent protein;",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9HNR,ELECTRON MICROSCOPY,,679,a5b3 GABAA Receptor in 1 a5 to 4 b3 stoichiometry in desensitized state,"Megabody 25; Gamma-aminobutyric acid receptor subunit beta-3,Green fluorescent p",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9HNS,ELECTRON MICROSCOPY,,679,a5b3 GABAAR bound to GABA and Mb25 in a desensitized state in saposin nanodiscs ,"Green fluorescent protein,Gamma-aminobutyric acid receptor subunit alpha-5; Mega",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9HNT,ELECTRON MICROSCOPY,,679,"a5b3 GABAAR bound to Etomidate, GABA, and Mb25 in a desensitized state in saposi","Megabody 25; Gamma-aminobutyric acid receptor subunit beta-3,Gamma-aminobutyric ",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9HQP,ELECTRON MICROSCOPY,,1217,Cryo-EM structure of mouse TMEM16F-YFP purified and plunged using MISO (microflu,"Anoctamin-6,Yellow Fluorescent Protein",Aequorea victoria; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+9HUM,ELECTRON MICROSCOPY,,679,a5b3 GABAAR bound to GABA and Mb25 in a desensitized state in saposin nanodiscs ,"Megabody 25; Gamma-aminobutyric acid receptor subunit beta-3,Green fluorescent p",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9IJW,SOLUTION NMR,,58,Serine protease inhibitor HCIQ2c1 from Heteractis crispa with TRPA1 mediated ant,PI-stichotoxin-Hcr2i,Radianthus crispa,NON_XRAY:SOLUTION NMR; TOO_SHORT:58AA; NOT_FP
+9IRV,ELECTRON MICROSCOPY,,394,MultiBody Refinement of dimeric DARPin and its bound GFP on a symmetric scaffold,Green fluorescent protein; DARPin,Aequorea victoria; synthetic construct,NON_XRAY:ELECTRON MICROSCOPY
+9J48,ELECTRON MICROSCOPY,,394,GFP bound to 24-mer DARPin-apoferritin model 6c,"Green fluorescent protein; Designed ankyrin repeat proteins,Ferritin heavy chain",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9J97,ELECTRON MICROSCOPY,,969,Closed structure of human XPR1,"Solute carrier family 53 member 1,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9J98,ELECTRON MICROSCOPY,,969,Open structure of human XPR1,"Solute carrier family 53 member 1,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9JJE,ELECTRON MICROSCOPY,,1560,Nematostella vectensis TRPM2 tetramer in complex with ADPRP/Ca2+,Transient receptor potential cation channel subfamily M member-like 2,Nematostella vectensis,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9JJF,ELECTRON MICROSCOPY,,1560,Nematostella vectensis TRPM2 protomer in complex with ADPRP/Ca2+,Transient receptor potential cation channel subfamily M member-like 2,Nematostella vectensis,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9LD5,X-RAY DIFFRACTION,1.9,241,Crystal structure of LSSmOrange under cryogenic temperature at pH 8.0,mOrange,Discosoma sp.,UNKNOWN
+9LD8,X-RAY DIFFRACTION,1.7,241,Crystal structure of LSSmOrange under room temperature at pH 8.0,mOrange,Discosoma sp.,UNKNOWN
+9LD9,X-RAY DIFFRACTION,2.0,241,"Crystal structure of LSSmOrange under room temperature at pH 8.0, 250ps after pu",mOrange,Discosoma sp.,UNKNOWN
+9LHZ,ELECTRON MICROSCOPY,,1596,Complex of voltage-gated sodium channel NavPaS from American cockroach Periplane,Delta-actitoxin-Avd2a; Sodium channel protein PaFPC1,Periplaneta americana; Anemonia sulcata,NON_XRAY:ELECTRON MICROSCOPY; NOT_FP
+9MRH,X-RAY DIFFRACTION,2.37,383,Fluorescence lifetime-readout citrate sensor,Fluorescence lifetime-readout citrate sensor,Aequorea,UNKNOWN
+9N6A,X-RAY DIFFRACTION,2.91,627,GP23 C-termimal receptor binding domain from TM4 phage,"Green fluorescent protein,Minor tail protein",Aequorea victoria; Mycobacterium phage TM4,EXPLICITLY_EXCLUDED
+9NA8,ELECTRON MICROSCOPY,,1040,Augmin1345 Extended-body,"AUGMIN subunit 3; AUGMIN subunit 5,Green fluorescent protein; AUGMIN subunit 4",Aequorea victoria; Arabidopsis thaliana,NON_XRAY:ELECTRON MICROSCOPY
+9NA9,ELECTRON MICROSCOPY,,1040,Augmin1345-Extended-Tripod,"AUGMIN subunit 3; AUGMIN subunit 5,Green fluorescent protein; AUGMIN subunit 4",Aequorea victoria; Arabidopsis thaliana,NON_XRAY:ELECTRON MICROSCOPY
+9O58,ELECTRON MICROSCOPY,,807,Zymogen ADAM17-iRhom2 complex bound by the MEDI3622 Fab,MEDI3622 Fab Light Chain; MEDI3622 Fab Heavy Chain; GFP-iRhom2 fusion protein,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9QBF,ELECTRON MICROSCOPY,,1311,HER2/ErbB2 extracellular domain (ECD) in compact conformation in complex with tr,"Receptor tyrosine-protein kinase erbB-2,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9QBG,ELECTRON MICROSCOPY,,1311,HER2/ErbB2 extracellular domain (ECD) in extended conformation in complex with t,"Receptor tyrosine-protein kinase erbB-2,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9QBH,ELECTRON MICROSCOPY,,1311,HER2/ErbB2 extracellular domain (ECD) from a near full-length construct solubili,"Receptor tyrosine-protein kinase erbB-2,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9QND,ELECTRON MICROSCOPY,,566,Connexin-32 (Cx32) W3S mutant gap junction channel in POPC-containing MSP2N2 nan,"Gap junction beta-1 protein,Gap junction beta-1 protein,Green fluorescent protei",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9QNT,ELECTRON MICROSCOPY,,566,Connexin-32 (Cx32) in MSP2N2 nanodiscs with liver polar lipids,"Gap junction beta-1 protein,Green fluorescent protein",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RGB,ELECTRON MICROSCOPY,,1028,M.tuberculosis MmpS5L5-acpM complex,"Meromycolate extension acyl carrier protein; Siderophore exporter MmpL5,Green fl",Aequorea victoria; Mycolicibacterium smegmatis MC2 155; Myco,NON_XRAY:ELECTRON MICROSCOPY
+9RL4,ELECTRON MICROSCOPY,,2285,Structure of BAF in complex with OCT4-SOX2-bound nucleosome - SHL-6,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfami,synthetic construct; Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RL5,ELECTRON MICROSCOPY,,679,"a5b3 GABAAR bound to Topiramate, GABA, and Mb25 in a desensitized state in sapos","Megabody 25; Gamma-aminobutyric acid receptor subunit beta-3,Green fluorescent p",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RMC,ELECTRON MICROSCOPY,,2285,Structure of BAF in complex with OCT4-SOX2-bound nucleosome - SHL+6 class 1,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfami,synthetic construct; Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RN1,ELECTRON MICROSCOPY,,2285,"Structure of BAF-nucleosome complex with OCT4-SOX2 at SHL+6 in ADP-bound state, ",SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfami,synthetic construct; Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RN2,ELECTRON MICROSCOPY,,2285,Structure of BAF in complex with OCT4-SOX2-bound nucleosome - SHL+6 class 2,Histone H3.1; Histone H4; Histone H2A type 1-B/E,Aequorea victoria; synthetic construct; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RPB,ELECTRON MICROSCOPY,,679,"a5b3 GABAAR bound to GABA, and Mb25 in a desensitized state in saposin nanodiscs","Outer membrane protein; Gamma-aminobutyric acid receptor subunit beta-3,Green fl",Aequorea victoria; Escherichia coli; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9RPD,ELECTRON MICROSCOPY,,672,"D. melanogaster Augmin TII N-clamp (GST-fusion) bound to a microtubule, well-def","Tubulin alpha-1A chain; Tubulin beta chain; Augmin complex subunit msd5,Green fl",Aequorea victoria; Drosophila melanogaster; Schistosoma japo,NON_XRAY:ELECTRON MICROSCOPY
+9S0T,X-RAY DIFFRACTION,2.05,245,Superfolder green fluorescent protein (sfGFP) exhibiting p-(phenylazo)-L-phenyla,Green fluorescent protein,Aequorea victoria,POTENTIAL_MISSING_FP
+9S2U,ELECTRON MICROSCOPY,,1028,1:1 complex of M.tuberculosis MmpL5 and M.smegmatis AcpM,"Meromycolate extension acyl carrier protein; Siderophore exporter MmpL5,Green fl",Aequorea victoria; Mycolicibacterium smegmatis MC2 155; Myco,NON_XRAY:ELECTRON MICROSCOPY
+9SDL,ELECTRON MICROSCOPY,,749,"Cryo-EM structure of PfHT1 bound to 2,5-anhydro-D-mannitol","Hexose transporter 1,Green fluorescent protein",Plasmodium falciparum; Aequorea victoria,NON_XRAY:ELECTRON MICROSCOPY
+9SYR,ELECTRON MICROSCOPY,,5070,"Human quaternary complex of a translating 80S ribosome, NAC, MetAP1 and NatD",28S rRNA; 60S ribosomal protein L4; 60S ribosomal protein L5,Brachypodium distachyon; Aequorea victoria; Saccharomyces ce,NON_XRAY:ELECTRON MICROSCOPY
+9UAQ,ELECTRON MICROSCOPY,,320,CryoEM structure of GFP-like protein from Aequorea coerulescens with Trimbody,"Green fluorescent protein; GFP-nanobody-TAIL; H3-PrAC-5350A,2-dehydro-3-deoxypho",Aequorea coerulescens; synthetic construct; Thermotoga marit,NON_XRAY:ELECTRON MICROSCOPY
+9UT8,ELECTRON MICROSCOPY,,1130,The full-length human sweet taste receptor TAS1R2 and TAS1R3 in the apo state,"Taste receptor type 1 member 3,mNeonGreen; Taste receptor type 1 member 2,Engine",Discosoma sp. (Sea anemone); Branchiostoma lanceolatum; Homo,NON_XRAY:ELECTRON MICROSCOPY
+9UT9,ELECTRON MICROSCOPY,,1130,The VFT domains of human sweet taste receptor TAS1R2 and TAS1R3 in the apo state,"Taste receptor type 1 member 3,mNeonGreen; Taste receptor type 1 member 2,Engine",Discosoma sp. (Sea anemone); Branchiostoma lanceolatum; Homo,NON_XRAY:ELECTRON MICROSCOPY
+9UTA,ELECTRON MICROSCOPY,,1130,The transmembrane domains of human sweet taste receptor TAS1R2 and TAS1R3 in the,"Taste receptor type 1 member 3,mNeonGreen; Taste receptor type 1 member 2,Engine",Discosoma sp. (Sea anemone); Branchiostoma lanceolatum; Homo,NON_XRAY:ELECTRON MICROSCOPY
+9UTB,ELECTRON MICROSCOPY,,1130,The full-length human sweet taste receptor TAS1R2 and TAS1R3 in the sucralose-bo,"Taste receptor type 1 member 2,Taste receptor type 1 member 2,Taste receptor typ",Branchiostoma lanceolatum; Discosoma sp.; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9UTC,ELECTRON MICROSCOPY,,1130,The VFT domains of human sweet taste receptor TAS1R2 and TAS1R3 in the sucralose,"Taste receptor type 1 member 3,mNeonGreen; Taste receptor type 1 member 2,Taste ",Branchiostoma lanceolatum; Discosoma sp.; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9V85,X-RAY DIFFRACTION,2.1,472,Superfolder GFP fused gp38 receptor binding domain of bacteriophage PP01,"Green fluorescent protein,Receptor-recognizing protein gp38",Escherichia phage PP01; Aequorea victoria,POTENTIAL_MISSING_FP
+9VED,ELECTRON MICROSCOPY,,2815,The cryo-EM structure of mouse Piezo1-MDFI complex,"Piezo-type mechanosensitive ion channel component 1,Green fluorescent protein; I",Aequorea victoria; Mus musculus,NON_XRAY:ELECTRON MICROSCOPY
+9VEE,ELECTRON MICROSCOPY,,3020,The cryo-EM structure of human Piezo2-MDFIC2 complex (composite map),MyoD family inhibitor domain-containing protein 2; Piezo-type mechanosensitive i,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9VEF,ELECTRON MICROSCOPY,,3020,The cryo-EM structure of human Piezo2-MDFIC complex (composite map),MyoD family inhibitor domain-containing protein; Piezo-type mechanosensitive ion,Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9VXW,ELECTRON MICROSCOPY,,537,Cryo-EM structure of hAQP11 in LMNG,"Aquaporin-11,sfGFP",Aequorea victoria; Homo sapiens,NON_XRAY:ELECTRON MICROSCOPY
+9YOP,ELECTRON MICROSCOPY,,1315,Cryo-EM structure of human beta-cardiac myosin in the interacting-heads motif an,"Myosin regulatory light chain 11; Myosin light chain 1/3, skeletal muscle isofor",Saccharomyces cerevisiae; Aequorea victoria; Homo sapiens; M,NON_XRAY:ELECTRON MICROSCOPY
+9YP4,ELECTRON MICROSCOPY,,1315,Cryo-EM structure of human beta-cardiac myosin bound to omecamtiv mecarbil in th,"Myosin regulatory light chain 11; Myosin light chain 1/3, skeletal muscle isofor",Saccharomyces cerevisiae; Aequorea victoria; Homo sapiens; M,NON_XRAY:ELECTRON MICROSCOPY
+9YP9,ELECTRON MICROSCOPY,,1315,Cryo-EM structure of human beta-cardiac myosin bound to mavacamten in the intera,"Myosin regulatory light chain 11; Myosin light chain 1/3, skeletal muscle isofor",Saccharomyces cerevisiae; Aequorea victoria; Homo sapiens; M,NON_XRAY:ELECTRON MICROSCOPY
+9YR7,ELECTRON MICROSCOPY,,1315,Cryo-EM structure of human beta-cardiac myosin bound to mavacamten in the intera,"Myosin regulatory light chain 11; Myosin light chain 1/3, skeletal muscle isofor",Saccharomyces cerevisiae; Aequorea victoria; Homo sapiens; M,NON_XRAY:ELECTRON MICROSCOPY
+9YRG,ELECTRON MICROSCOPY,,1315,Cryo-EM structure of human beta-cardiac myosin in the interacting-heads motif an,"Myosin regulatory light chain 11; Myosin light chain 1/3, skeletal muscle isofor",Saccharomyces cerevisiae; Aequorea victoria; Homo sapiens; M,NON_XRAY:ELECTRON MICROSCOPY
+9YRH,ELECTRON MICROSCOPY,,1315,Cryo-EM structure of human beta-cardiac myosin bound to omecamtiv mecarbil in th,"Myosin regulatory light chain 11; Myosin light chain 1/3, skeletal muscle isofor",Saccharomyces cerevisiae; Aequorea victoria; Homo sapiens; M,NON_XRAY:ELECTRON MICROSCOPY
+9YZQ,X-RAY DIFFRACTION,3.75,313,Isoreticular co-crystal 1 with asymmetrical expanded duplex (31mer) containing i,DNA (31-MER); DNA (31-MER); Replication initiation protein,Aequorea victoria; Drosophila melanogaster; Escherichia coli,EXPLICITLY_EXCLUDED; LOW_RES:3.8A
+9ZDG,X-RAY DIFFRACTION,2.33,447,Calcium biosensor with a fluorescence-lifetime readout,Tq-FLiTS,Aequorea victoria,UNKNOWN

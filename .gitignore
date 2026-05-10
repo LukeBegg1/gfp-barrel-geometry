@@ -1,0 +1,21 @@
+# Large structure files — re-downloadable, don't commit
+*.cif
+*.pdb
+scop_gfp_structures/
+missing_fp_structures/
+alphafold_all347_structures/
+
+# Backups
+*_backup.csv
+~$*.docx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/

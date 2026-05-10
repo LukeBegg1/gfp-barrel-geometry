@@ -1,0 +1,32 @@
+pdb_id,has_chromophore,chromophore_type,convex_area,convex_perimeter,major_axis,minor_axis,eccentricity,circularity,barrel_length,b_factor_ratio,chrom_contacts,source,n_residues,resolution,match_name
+2ZO6,True,GYS,666.5,94.5,31.48,28.21,0.444,0.938,46.1,0.921,139,added_missing,215,1.4,Kusabira-Cyan (KCY)
+2ZO7,True,GYS,737.1,98.91,33.79,28.26,0.548,0.947,45.7,0.961,129,added_missing,219,1.58,Kusabira-Cyan mutant KCY-R1
+3BX9,True,NRQ,715.7,101.94,34.06,27.97,0.571,0.865,48.2,0.854,130,added_missing,224,1.8,mKate (pH 2.0)
+3BXA,True,NRQ,738.1,101.86,32.34,27.4,0.531,0.894,47.7,0.872,297,added_missing,223,1.75,mKate (pH 4.2)
+3BXB,True,NRQ,716.3,100.27,34.66,28.54,0.568,0.895,47.9,0.914,118,added_missing,222,2.6,mKate (pH 7.0)
+3BXC,True,NRQ,723.3,100.72,34.76,29.1,0.547,0.896,48.2,0.923,117,added_missing,221,2.6,mKate (pH 9.0)
+3LS3,False,,678.1,96.48,34.48,31.2,0.426,0.915,52.0,0.963,0,added_missing,224,1.65,Padron0.9 ON state
+3LSA,False,,708.5,96.76,35.88,31.2,0.494,0.951,51.7,0.915,0,added_missing,224,1.79,Padron0.9 OFF state
+3ST2,True,CR2,703.5,97.93,33.72,30.32,0.438,0.922,48.4,0.805,118,added_missing,236,1.9,Dreiklang equilibrium
+3ST3,False,,708.0,97.73,34.59,31.96,0.383,0.932,49.0,0.772,0,added_missing,236,1.702,Dreiklang OFF state
+3ST4,True,CR2,715.2,98.18,33.58,30.54,0.416,0.932,48.8,0.822,119,added_missing,236,2.0,Dreiklang ON state
+4ZIO,True,CH6,645.6,94.02,31.77,29.2,0.394,0.918,46.5,0.988,114,added_missing,215,2.0,mCherry143azF irradiated
+5YT1,True,NRQ,695.6,98.38,32.75,28.95,0.468,0.903,49.1,0.85,121,added_missing,226,2.0,mNeptune684
+6S68,False,,669.6,94.27,33.82,29.37,0.496,0.947,45.4,0.901,0,added_missing,223,2.06,AausFP2
+6U1A,True,NRQ,661.2,96.53,30.77,30.02,0.219,0.892,47.1,0.81,256,added_missing,219,1.09,FusionRed
+6WEM,True,NRQ,722.5,100.02,35.11,28.73,0.575,0.908,48.0,0.923,124,added_missing,224,2.04,mCrimson 0.9
+7DMX,True,CR8,620.4,93.38,30.28,28.82,0.306,0.894,45.5,0.761,137,added_missing,215,2.1,PhoCl green form
+7DNA,True,CR8,690.1,98.03,33.43,29.02,0.496,0.902,45.9,0.806,138,added_missing,213,2.3,PhoCl green+red form
+7LQO,True,NRQ,723.0,100.68,35.95,28.78,0.599,0.896,46.8,0.943,106,added_missing,228,2.1,pnRFP
+7LUG,True,NRQ,709.1,98.91,34.17,29.74,0.492,0.911,47.3,0.936,103,added_missing,223,1.95,pnRFP B30Y mutant
+7RHA,True,NRQ,660.2,93.87,32.98,27.87,0.535,0.941,49.2,0.935,201,added_missing,220,1.8,darkmRuby (pH 5.0)
+7RHB,True,NRQ,682.7,96.99,33.58,29.37,0.485,0.912,50.1,0.942,126,added_missing,219,2.51,darkmRuby (pH 8.0)
+7RHC,True,NRQ,670.7,95.4,31.68,29.08,0.396,0.926,49.3,0.938,127,added_missing,219,2.8,darkmRuby (pH 9.0)
+8I4K,True,NRQ,701.2,98.33,32.35,29.58,0.405,0.911,49.8,0.923,145,added_missing,223,1.84,Azami Red1.0
+8PEI,True,5SQ,656.8,95.48,31.61,27.95,0.467,0.905,48.8,0.9,140,added_missing,215,3.0,SAASoti C21N/V127T
+8WGP,True,CRQ,675.4,95.81,33.39,28.19,0.536,0.925,46.8,0.8,94,added_missing,217,2.9,DsRed-Monomer
+8ZBO,True,5SQ,600.5,90.9,31.8,27.15,0.521,0.913,46.5,0.795,152,added_missing,212,2.0,moxSAASoti F97M
+9LD5,False,,873.7,109.95,42.84,30.88,0.693,0.908,49.3,0.909,0,added_missing,230,1.9,LSSmOrange cryo pH 8.0
+9LD8,False,,970.7,116.35,43.51,32.57,0.663,0.901,50.1,0.918,0,added_missing,231,1.7,LSSmOrange RT pH 8.0
+9LD9,False,,848.1,110.71,42.74,29.44,0.725,0.87,45.4,0.898,0,added_missing,226,2.0,LSSmOrange RT 250ps post-pump
+9S0T,True,CRO,730.6,98.9,33.26,29.83,0.442,0.939,49.7,0.629,97,added_missing,223,2.05,sfGFP p-(phenylazo)-L-Phe
