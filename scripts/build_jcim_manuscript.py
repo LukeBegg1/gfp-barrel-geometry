@@ -977,6 +977,75 @@ add_body(
 doc.add_paragraph()
 
 # ═══════════════════════════════════════════════════════════
+# CONCLUSIONS
+# ═══════════════════════════════════════════════════════════
+add_heading('Conclusions')
+
+add_body(
+    'We have presented a systematic, quantitative analysis of beta-barrel '
+    'cross-sectional geometry across 908 fluorescent protein crystal '
+    'structures, the largest such survey to date. The central finding is '
+    'that barrel shape—but not barrel size—correlates with emission '
+    'wavelength: red-shifted fluorescent proteins reside in narrower, more '
+    'elliptical barrels, with the minor axis showing the strongest '
+    'association (ρ = −0.290, p < 10⁻¹⁴). This '
+    'relationship is preserved after Benjamini–Hochberg correction for '
+    'multiple testing across 47 pre-specified hypotheses and survives partial '
+    'correlation analysis controlling for crystallographic resolution, '
+    'confirming it is not a resolution artifact. The photophysically relevant '
+    'variation in fluorescent protein structure therefore resides in barrel '
+    'shape, not volume.'
+)
+
+add_body(
+    'The ratio of chromophore to barrel crystallographic B-factors emerged as '
+    'the strongest single predictor of quantum yield (ρ = −0.493, '
+    'p < 10⁻¹⁷), outperforming shape descriptors in both '
+    'bivariate and multivariate analyses (Random Forest out-of-bag R² = '
+    '0.57). This finding supports the model that the beta-barrel acts as a '
+    'rigidifying scaffold: structures in which the chromophore is '
+    'comparatively immobile relative to the barrel walls tend to have higher '
+    'quantum yields, while red-shifted proteins with inherently more flexible '
+    'chromophores show elevated B-factor ratios. Chromophore dihedral angles '
+    '(τ and ϕ) independently correlated with both barrel eccentricity '
+    'and quantum yield, consistent with a model in which asymmetric barrel '
+    'packing is geometrically linked to chromophore torsional freedom and '
+    'non-radiative decay.'
+)
+
+add_body(
+    'AlphaFold2-predicted structures faithfully reproduced barrel shape '
+    '(eccentricity and circularity indistinguishable from crystal structures '
+    'in a paired analysis of 51 wild-type fluorescent proteins), but '
+    'systematically underestimated cross-sectional dimensions by '
+    '0.5–0.9 Å per axis and predicted longer barrels by 3.7 Å. '
+    'The emission–minor axis correlation prominent in crystal structures '
+    'was absent in AlphaFold models, confirming that this correlation is '
+    'driven by the mature chromophore—which AlphaFold does not model—'
+    'rather than by primary sequence differences alone. AlphaFold therefore '
+    'provides a useful geometric baseline for uncrystallized fluorescent '
+    'proteins, but cannot substitute for experimentally determined structures '
+    'in studies of chromophore–barrel interactions.'
+)
+
+add_body(
+    'Taken together, these results challenge the view of the fluorescent '
+    'protein beta-barrel as a passive scaffold and instead implicate it as an '
+    'active participant in modulating chromophore rigidity and photophysical '
+    'output. The correlations described here are observational and require '
+    'experimental validation—ideally through directed mutagenesis '
+    'targeting barrel symmetry and chromophore packing—before causal '
+    'interpretations can be drawn. Nevertheless, they suggest that engineering '
+    'strategies targeting the symmetry and tightness of chromophore packing in '
+    'the minor-axis direction, rather than overall barrel volume, may be '
+    'productive routes toward higher quantum yields in red-shifted variants. '
+    'The 908-structure dataset, analysis pipeline, and statistical results are '
+    'publicly available to facilitate further investigation.'
+)
+
+doc.add_paragraph()
+
+# ═══════════════════════════════════════════════════════════
 # REFERENCES
 # ═══════════════════════════════════════════════════════════
 add_heading('References')
@@ -1060,10 +1129,11 @@ add_body(
 add_body(
     'Table S2. Pseudoreplication robustness test. Key correlations and '
     'group comparisons recomputed after collapsing to one structure per '
-    'unique FPbase protein name (n = 251, selecting the highest-resolution '
-    'entry). Ten of eleven findings survive; the chromophore vs '
-    'no-chromophore circularity comparison does not reach significance '
-    'after collapsing (provided as a CSV file).'
+    'unique FPbase protein name (n = 71, selecting the highest-resolution '
+    'entry from the 697 spectrally matched structures). Ten of twelve '
+    'findings survive; the chromophore vs no-chromophore eccentricity and '
+    'circularity comparisons do not reach significance after collapsing '
+    '(provided as a CSV file).'
 )
 
 add_body(
@@ -1112,8 +1182,9 @@ add_body(
     'convex hull analysis, spectral data matching, B-factor extraction, '
     'dihedral angle computation, statistical analysis, and figure '
     'generation were generated with the assistance of Claude (Anthropic) '
-    'via Claude Code and are deposited in a public repository '
-    '(https://github.com/[repository]; DOI: [to be assigned upon acceptance]). '
+    'via Claude Code and are publicly available at '
+    'https://github.com/LukeBegg1/gfp-barrel-geometry '
+    '(DOI: [to be assigned upon acceptance]). '
     'The complete dataset (Table S1) is provided as a CSV file in the '
     'Supporting Information.'
 )
